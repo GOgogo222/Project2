@@ -27,10 +27,13 @@
             "id": "3d402455f652edf6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ]
@@ -106,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -124,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "未命名 的出链列表"
             }
           },
           {
@@ -152,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           }
         ]
@@ -178,8 +184,9 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "86181e4dbde5f1cf",
+  "active": "3d402455f652edf6",
   "lastOpenFiles": [
+    "未命名.base",
     "欢迎.md"
   ]
 }
