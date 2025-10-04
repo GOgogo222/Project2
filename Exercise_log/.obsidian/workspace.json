@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A test.md.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A test.md"
+              "title": "test"
+            }
+          },
+          {
+            "id": "92850d1c82978c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "88b91051a6dc9183",
@@ -190,9 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f06a38c6090f685b",
+  "active": "92850d1c82978c7f",
   "lastOpenFiles": [
     "A test.md.md",
+    "未命名.md",
     "test.md",
     "未命名.base",
     "欢迎.md"
