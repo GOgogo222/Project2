@@ -1,0 +1,48 @@
+# ========== Obsidian 系统文件 ==========
+# 工作区状态文件 - 不同设备不同，必须忽略
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# 回收站 - 不需要同步
+.obsidian/trash/
+.obsidian/trash.json
+
+# 核心插件迁移记录 - 临时文件
+.obsidian/core-plugins-migration.json
+
+# 设备特定的缓存文件 - 不同设备不同
+.obsidian/desktop.json
+.obsidian/mobile.json
+.obsidian/app.json
+
+# 插件备份目录 - 临时文件
+.obsidian/plugins-backup/
+
+# 同步冲突备份文件
+.obsidian/sync-conflict/
+
+# ========== 操作系统文件 ==========
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+# ========== 临时文件 ==========
+*.tmp
+*.temp
+*.log
+.cache/
+
+# ========== 其他 ==========
+# 大型附件（如果不想同步）
+# attachments/large-files/
