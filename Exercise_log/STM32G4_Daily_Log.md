@@ -5,7 +5,7 @@
 
 **LCD与LED引脚冲突**：  
 
-!
+![未配置PD2]([Project-2/Exercise_log/Attachments/Pasted image 20251005105126.png at main · GOgogo222/Project-2](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/Pasted%20image%2020251005105126.png))
   
 所以一开始就没碰过PD2？那我刚开始的功能是怎么做到的？无敌了，卡我三四个小时，记录一下。。。
 
