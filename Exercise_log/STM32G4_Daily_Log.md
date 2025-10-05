@@ -5,7 +5,7 @@
 
 **LCD与LED引脚冲突**：  
 
-![image](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/STM32G4_Daily_Log.md)
+![image](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/Pasted%20image%2020251005105126.png)
   
 所以一开始就没碰过PD2？那我刚开始的功能是怎么做到的？无敌了，卡我三四个小时，记录一下。。。
 
