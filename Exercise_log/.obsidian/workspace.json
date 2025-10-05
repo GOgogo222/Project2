@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#October",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92850d1c82978c7f",
+  "active": "f17720fcd6e48883",
   "lastOpenFiles": [
     "未命名.md",
     "STM32G4_Daily_Log.md",
