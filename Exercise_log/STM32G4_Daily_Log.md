@@ -12,3 +12,5 @@
 ![image](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/da428a4a864740dfb451bff2ef502ebc.jpg)
 
 爽了！
+
+## October 8th
