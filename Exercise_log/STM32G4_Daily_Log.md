@@ -15,3 +15,11 @@
 
 ## October 8th
 
+![定时器内部结构](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/%E5%AE%9A%E6%97%B6%E5%99%A8%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84.png)
+
+![定时器比喻](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/%E5%AE%9A%E6%97%B6%E5%99%A8%E6%AF%94%E5%96%BB.png)
+
+![定时器频率_周期公式](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/%E5%AE%9A%E6%97%B6%E5%99%A8%E9%A2%91%E7%8E%87_%E5%91%A8%E6%9C%9F%E5%85%AC%E5%BC%8F.png)
+
+![系统时钟内部结构](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%92%9F%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84.png)
+
