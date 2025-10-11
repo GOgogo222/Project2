@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "What is Intelligence"
             }
+          },
+          {
+            "id": "f10e57ca8b2dc80c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is eating meat bad for your health.Is meat unhealthy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Is eating meat bad for your health.Is meat unhealthy"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,21 +195,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1218980a038d2f05",
+  "active": "f10e57ca8b2dc80c",
   "lastOpenFiles": [
+    "Attachments/Chicken.png",
+    "Attachments/Fish.png",
+    "Attachments/Red Meats.png",
+    "Attachments/屏幕截图 2025-10-11 181026.png",
+    "Attachments/屏幕截图 2025-10-11 181253.png",
+    "Attachments/屏幕截图 2025-10-11 180927.png",
+    "What is Intelligence.md",
+    "Is eating meat bad for your health.Is meat unhealthy.md",
     "Attachments/Raccoons.png",
     "Attachments/Squirrel.png",
     "Attachments/Strategy.png",
     "Attachments/Sheep.png",
     "Attachments/Humans.png",
-    "Attachments/Planning.png",
-    "Attachments/屏幕截图 2025-10-09 181052.png",
-    "Attachments/屏幕截图 2025-10-09 181419.png",
-    "Attachments/屏幕截图 2025-10-09 181517.png",
-    "Attachments/屏幕截图 2025-10-09 181625.png",
-    "Attachments/屏幕截图 2025-10-09 181651.png",
-    "What is Intelligence.md",
-    "What is Intelligence.md",
     "新建文件夹",
     "怪奇物语 第三季第6集.md",
     "After_Movies",
