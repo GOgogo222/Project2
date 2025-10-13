@@ -59,4 +59,9 @@
 **两个参数:CNT+指定通道OC**
 
 
+![STM32系统架构图](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/STM32%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%9B%BE.jpg)
+
+## STM32系统架构图
+
+
 
