@@ -30,3 +30,8 @@
 ![系统时钟内部结构](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%92%9F%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84.png)
 **系统时钟内部结构**
 
+
+## October 13th
+
+
+
