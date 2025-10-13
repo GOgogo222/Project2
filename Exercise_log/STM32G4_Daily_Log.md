@@ -51,3 +51,11 @@
 
 **PWM模块**
 
+|函数|参数|作用|说明|
+|---|---|---|---|
+|`HAL_TIM_Base_Start()`|&htim|启动计数器 CNT|计数器模式，普通定时器，无 PWM 输出|
+|`HAL_TIM_PWM_Start()`|&htim, TIM_CHANNEL_x|启动 CNT + 指定通道 OC 输出 PWM|通道参数告诉定时器哪个 OC 模块连接 GPIO 输出|
+
+
+**两个参数:CNT+指定通道OC**
+
