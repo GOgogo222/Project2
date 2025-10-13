@@ -33,5 +33,8 @@
 
 ## October 13th
 
+![PWM&PWM模块&信号发生器](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/PWM%26PWM%E6%A8%A1%E5%9D%97%26%E4%BF%A1%E5%8F%B7%E5%8F%91%E7%94%9F%E5%99%A8.png)
+
+**PWM&PWM模块&信号发生器**
 
 
