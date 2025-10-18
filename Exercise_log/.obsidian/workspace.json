@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#October",
+                "query": "tag:#define和typedef",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "531b34a8418daf01",
+  "active": "f17720fcd6e48883",
   "lastOpenFiles": [
     "Attachments/什么是中断函数.png",
     "Attachments/屏幕截图 2025-10-17 091910.png",
