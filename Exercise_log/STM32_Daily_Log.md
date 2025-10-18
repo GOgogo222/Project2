@@ -94,5 +94,11 @@
 
 **宏定义 #define和typedef->专门针对数据类型的改名**
 
+![指针的定义](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/%E6%8C%87%E9%92%88%E7%9A%84%E5%AE%9A%E4%B9%89.png)
 
+**指针的定义**
+
+![强制类型转换的_星号](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%E7%9A%84_%E6%98%9F%E5%8F%B7.png)
+
+**强制类型转换的_星号**
 
