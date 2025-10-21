@@ -108,3 +108,9 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **关于优先级的分组问题**
 
+## October 21th
+
+![关于频率](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/%E5%85%B3%E4%BA%8E%E9%A2%91%E7%8E%87.png)
+
+**总线的频率问题**
+
