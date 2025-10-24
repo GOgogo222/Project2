@@ -114,3 +114,5 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **总线的频率问题**
 
+
+## October
