@@ -115,4 +115,8 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 **总线的频率问题**
 
 
-## October
+## October 24th
+
+- 学会了如何使用OLED显示屏
+- 学会了用光敏传感器加蜂鸣器
+- 连接了旋钮编码器等基本电路
