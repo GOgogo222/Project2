@@ -120,3 +120,11 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 学会了如何使用OLED显示屏
 - 学会了用光敏传感器加蜂鸣器
 - 连接了旋钮编码器等基本电路
+
+## October 25th
+
+- 了解了EXIT外设和中断系统的基本结构
+- 实现了RCC,GPIO,AFIO,EXTI和NVIC的初始化配置
+- （注：中断函数要在Start文件中找,判断标志位+清除标志位，类似于**new**的用法）
+
+
