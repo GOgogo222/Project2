@@ -127,4 +127,9 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 实现了RCC,GPIO,AFIO,EXTI和NVIC的初始化配置
 - （注：中断函数要在Start文件中找,判断标志位+清除标志位，类似于**new**的用法）
 
+## October 26th
 
+- 实现了旋转编码器计次 
+- BUG: Num = Encoder();   // 所以显示器一直为0000 
+
+- 
