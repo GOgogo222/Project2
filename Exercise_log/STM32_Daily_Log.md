@@ -132,4 +132,8 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 实现了旋转编码器计次 
 - BUG: Num = Encoder();   // 所以显示器一直为0000 
 
-- 
+![PWM基本结构](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/PWM%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84.png)
+
+**PWM基本结构**
+
+
