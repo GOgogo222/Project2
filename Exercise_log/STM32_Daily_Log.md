@@ -145,5 +145,5 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 采样深度的概念/分辨率的概念（例如12位的ADC,就是将0~3.3V的电压分成 *2^12-1（4035）* 份 ）
 - 了解逐次逼近型的ADC的运行原理(流程：采样->保持 *（采样保持电路)* -> 量化 -> 编码)，学习到其中二分法的思想，可以与放砝码的过程作类比
 - 复习了ADC外围电路的相关知识，电位器可调电压电路，传感器输出电压电路和简易电压转换电路
-
+[Project-2/Exercise_log/Attachments/ADC外围电路.png at main · GOgogo222/Project-2](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/ADC%E5%A4%96%E5%9B%B4%E7%94%B5%E8%B7%AF.png)
 
