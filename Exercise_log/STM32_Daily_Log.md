@@ -136,4 +136,9 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **PWM基本结构**
 
+## October 28th
 
+### 今天主要学习内容为ADC
+
+- 什么是 *A* - *D* - *C* (模拟信号 Analog，数字信号 Digital，转换器 Conberter)
+- 什么是模拟信号，数字信号
