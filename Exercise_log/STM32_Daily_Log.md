@@ -150,5 +150,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **ADC外围电路**
 
+## October 29th
 
+- 初识USART和DMA
 
