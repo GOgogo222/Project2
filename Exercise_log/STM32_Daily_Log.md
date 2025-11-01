@@ -175,4 +175,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - **数据宽度**：一个字节，半个字，一个字
 - **地址是否自增**：Peripheral/Memory
 - **优先级**：Low/Medium/High/Very High
-- shi'fou'ka
+- **循环模式**：适用于与ADC的连续转换模式协同操作
+- **数据数量**：“并且搬运数量为ADC通道数”
+- ——参考keysking【STM32】关于DMA那些事
+
