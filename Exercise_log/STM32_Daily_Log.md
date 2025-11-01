@@ -192,5 +192,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **RAM和ROM**
 
-- 通常情况下Flash存储器不可写入，作为
+- 通常情况下Flash存储器不可写入，作为DMA的目标寄存器会出错！
+
+“所以外设和存储器两个站点，就都有三个”
 
