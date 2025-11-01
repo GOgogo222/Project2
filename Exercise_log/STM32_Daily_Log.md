@@ -180,7 +180,6 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - ——参考keysking【STM32】关于DMA那些事
 
 **DMA的搬运区域就只有**外设**和**存储器**俩地方，且方向也被限定了**
-
 - 外设-->存储器
 - 存储器-->外设
 - 存储器-->存储器
@@ -193,5 +192,5 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **RAM和ROM**
 
-
+- 通常情况下Flash存储器不可写入，作为
 
