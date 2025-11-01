@@ -184,3 +184,9 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 外设-->存储器
 - 存储器-->外设
 - 存储器-->存储器
+
+
+
+![[Pasted image 20251101110811.png]]
+
+【STM】
