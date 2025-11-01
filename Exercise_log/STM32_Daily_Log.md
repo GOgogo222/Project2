@@ -175,7 +175,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - **数据宽度**：一个字节，半个字，一个字
 - **地址是否自增**：Peripheral/Memory
 - **优先级**：Low/Medium/High/Very High
-- **循环模式**：适用于与ADC的连续转换模式协同操作
+- **循环模式**：适用于与ADC的连续转换模式协同操作,由**自动重装寄存器**控制
 - **数据数量**：“并且搬运数量为ADC通道数”
 - ——参考keysking【STM32】关于DMA那些事
 
@@ -198,6 +198,10 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 起始地址
 - 数据宽度（Byte/Halfword/Word）
 - 地址是否自增
+
+**“软件触发和循环模式不可同时使用，因其速度快的特性，软件触发比较适合从存储器到存储器的转运”**
+
+
 
 
 
