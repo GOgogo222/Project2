@@ -185,8 +185,11 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 存储器-->外设
 - 存储器-->存储器
 
-
-
-
 **【STM32F1】内部的存储器**
+
+![Project-2/Exercise_log/Attachments/RAM和ROM.png at main · GOgogo222/Project-2](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/RAM%E5%92%8CROM.png)
+
+RAM和ROM
+
+
 
