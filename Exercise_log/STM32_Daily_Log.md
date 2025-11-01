@@ -194,5 +194,10 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 - 通常情况下Flash存储器不可写入，作为DMA的目标寄存器会出错！
 
-“所以外设和存储器两个站点，就都有三个”
+**“所以外设和存储器两个站点，就都有三个参数”**
+- 起始地址
+- 数据宽度（Byte/Halfword/Word）
+- 地址是否自增
+
+
 
