@@ -187,6 +187,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 
 
-![[Pasted image 20251101110811.png]]
+https://pic2.zhimg.com/v2-38d6c44089fbbf47a7e38c24515427b7_r.jpg
 
-【STM】
+**【STM32F1】内部的存储器**
+
