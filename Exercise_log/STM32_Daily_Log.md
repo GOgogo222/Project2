@@ -230,4 +230,5 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 - **单工**：一根线，只能一个发一个接
 - **全双工**：两根线，两个都能发都能接 
-- **半双工**：yi'geng'xian
+- **半双工**：一根线，两个都能发
+
