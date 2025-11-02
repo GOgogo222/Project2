@@ -222,3 +222,5 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 停止位1位
 - 无校验
 
+数据寄存器DR(Data Register)
+
