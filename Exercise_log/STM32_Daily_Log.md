@@ -203,5 +203,14 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 
 
+## November 2th
+
+了解了各个通信接口的特性，USART,I2C,SPI,CAN和USB
+- **引脚
+- **双工（全双工/半双工）
+- **时钟（异步/同步）
+- **电平（单端/差分）
+- **设备（点对点/多设备）
+
 
 
