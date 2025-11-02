@@ -224,3 +224,5 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 数据寄存器DR(Data Register)
 
+**一个物理引脚可以有多种功能，GPIO只是它可能承担的其中一种功能。**
+
