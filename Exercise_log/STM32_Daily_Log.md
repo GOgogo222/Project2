@@ -232,3 +232,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - **全双工**：两根线，两个都能发都能接 
 - **半双工**：一根线，两个都能发
 
+## November 4th
+
+**完整过了各章的概念部分，仍需加强，实践
+
