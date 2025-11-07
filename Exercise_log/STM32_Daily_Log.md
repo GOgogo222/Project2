@@ -236,3 +236,8 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **完整过了各章的概念部分，仍需加强，实践
 
+## November 8th
+
+- 复习了GPIO架构图
+- 复习了TIM定时器架构图
+- 熟悉了CubeMX的基本操作
