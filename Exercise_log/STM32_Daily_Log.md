@@ -241,3 +241,5 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 复习了GPIO架构图
 - 复习了TIM定时器架构图
 - 熟悉了CubeMX的基本操作
+
+## November 
