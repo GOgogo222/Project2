@@ -244,4 +244,4 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 ## November 9th
 
-- 单片机核心板PCB
+- 单片机核心板PCB：学会了元器件的放置
