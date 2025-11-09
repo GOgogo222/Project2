@@ -242,4 +242,6 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 复习了TIM定时器架构图
 - 熟悉了CubeMX的基本操作
 
-## November 
+## November 9th
+
+- 单片机核心板PCB
