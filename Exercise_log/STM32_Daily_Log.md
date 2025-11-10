@@ -245,3 +245,10 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 ## November 9th
 
 - 单片机核心板PCB：学会了元器件的放置
+
+## November 10th
+
+- 回看**TIM定时器**的输入捕获/输出比较部分
+- 回看ADC工作原理
+- 实现LED呼吸灯
+
