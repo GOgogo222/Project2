@@ -252,3 +252,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 回看ADC工作原理
 - 实现LED呼吸灯
 
+## November 12th
+
+- 编码器接口相当于是为实际单元提供了一个时钟
+- 
