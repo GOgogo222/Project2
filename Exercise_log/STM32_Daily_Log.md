@@ -255,4 +255,9 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 ## November 12th
 
 - 编码器接口相当于是为实际单元提供了一个时钟
-- 
+
+## November 13th
+
+- 实现编码器测速
+- 实现输入捕获测频率&占空比
+
