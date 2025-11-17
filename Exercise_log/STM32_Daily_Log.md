@@ -261,3 +261,4 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - 实现编码器测速
 - 实现输入捕获测频率&占空比
 
+## November 1
