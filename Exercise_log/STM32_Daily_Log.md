@@ -270,3 +270,4 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 ## November 19th
 
 - **STM32硬件自动化：** "各个外设相互连接，互相交织，不再是传统的一个CPU，单独控制多个独立的外设"
+- **USART框图部分：** 在程序上数据寄存器只表现为一个：数据寄存器DR；在硬件上表现为
