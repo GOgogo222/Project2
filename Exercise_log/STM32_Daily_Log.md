@@ -296,3 +296,4 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 ******************************
 
+- 数据包：把数据打包成一个整体，一次性发送
