@@ -287,6 +287,6 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - **串口使用printf和sprinrf:** 
 - 	printf("Num=%d\r\n",666);(需要重新定义底层的fputc函数)
 - 	sprintf(String,"Num=%d\r\n",666); （更强大，指定打印位置【String数组】，不涉及重定向的东西）
-- 
+
 
 
