@@ -282,4 +282,10 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 **“一个引脚只能有一个输出，但可以有多个输入，所以输入脚，外设和GPIO都可以使用！！！”**
 
 
+## November 20th
+
+- **串口使用printf和sprinrf:** 
+- 	printf("Num=%d\r\n",666);(需要重新定义底层的fputc函数)
+- 	sprintf(String,"Num=%d\r\n",666); （更强大，）
+
 
