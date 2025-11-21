@@ -311,3 +311,11 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - ②“对于指定设备（Slave Address）,在指定地址（Reg Address）下，读取/写入从机数据（Data）” 
 
 ## November 21th
+
+**************************
+
+**实践部分：**
+1. TXD和RED引脚接反程序不会有任何反应
+2. 
+
+*********************************
