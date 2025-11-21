@@ -316,6 +316,6 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **实践部分：**
 1. TXD和RED引脚接反程序不会有任何反应
-2. Serial_
+2. Serial_SendByte()函数写错，导致一连串的函数SendString(),SendArray()...等函数也不中用了。毕竟像这种更高级的函数不过是SendByte()的叠加罢了
 
 *********************************
