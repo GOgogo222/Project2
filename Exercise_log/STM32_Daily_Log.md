@@ -316,6 +316,6 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **实践部分：**
 1. TXD和RED引脚接反程序不会有任何反应
-2. 
+2. Serial_
 
 *********************************
