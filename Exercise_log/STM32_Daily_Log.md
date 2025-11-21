@@ -310,3 +310,4 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - **“套话”：** ①“对于指定设备（Slave Address）,在当前地址指针指示的地址下，读取/写入从机数据（Data）” 
 - ②“对于指定设备（Slave Address）,在指定地址（Reg Address）下，读取/写入从机数据（Data）” 
 
+## November 21th
