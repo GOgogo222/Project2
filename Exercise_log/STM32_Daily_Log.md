@@ -7,8 +7,6 @@
 
 ![image](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/da428a4a864740dfb451bff2ef502ebc.jpg)
 
-爽了！
-
 ## October 7th
 **救命，把CubeMX更新了一下，旧工程全消失了，一定要引以为戒**
 
