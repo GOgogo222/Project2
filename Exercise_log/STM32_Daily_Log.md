@@ -439,4 +439,10 @@ Alt+I: 原理图转PCB
 ## November 26th
 
 今天看了不少项目，选了一个Liunx相关的打算做下去
+https://www.bilibili.com/video/BV1685qztEec?t=10.6&p=11
+
+## November 29th
+
+
+
 

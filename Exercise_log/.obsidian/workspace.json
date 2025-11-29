@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "STM32_Daily_Log"
             }
-          },
-          {
-            "id": "f3fbed693315a236",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3fbed693315a236",
+  "active": "531b34a8418daf01",
   "lastOpenFiles": [
     "Attachments/时钟和字长.png",
     "Attachments/屏幕截图 2025-11-02 105931.png",
