@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "531b34a8418daf01",
+            "id": "30bf920487da598f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STM32_Daily_Log.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "STM32_Daily_Log"
+              "title": "新标签页"
             }
           }
         ]
@@ -181,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "531b34a8418daf01",
+  "active": "30bf920487da598f",
   "lastOpenFiles": [
+    "STM32_Daily_Log.md",
     "Attachments/时钟和字长.png",
     "Attachments/屏幕截图 2025-11-02 105931.png",
     "Attachments/串口参数及时序.png",
@@ -193,8 +190,6 @@
     "Attachments/Pasted image 20251101110756.png",
     "Attachments/ADC外围电路.png",
     "Attachments/屏幕截图 2025-10-28 200301.png",
-    "Attachments/关于频率.png",
-    "STM32_Daily_Log.md",
     "[Project-2/Exercise_log/Attachments/Pasted.md",
     "[Project-2/Exercise_log/Attachments",
     "[Project-2/Exercise_log",
