@@ -60,4 +60,8 @@ LCD与LED1~8共用了引脚PC7~15，引脚冲突
 
 ![[Pasted image 20251130212346.png]]
 
-流水灯
+流水灯相关函数，All_off和light_one函数可以确保LED一个一个亮
+
+![[Pasted image 20251130212832.png]]
+
+将按键的状态封装成yi
