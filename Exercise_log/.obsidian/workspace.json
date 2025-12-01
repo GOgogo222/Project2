@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Experiments"
             }
+          },
+          {
+            "id": "3a162ec01e8baf4e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30bf920487da598f",
+  "active": "3a162ec01e8baf4e",
   "lastOpenFiles": [
+    "Experiments.md",
     "Attachments/Pasted image 20251130213407.png",
     "Attachments/Pasted image 20251130213310.png",
     "Attachments/Pasted image 20251130213125.png",
@@ -193,8 +205,6 @@
     "Attachments/Pasted image 20251130200450.png",
     "Attachments/Pasted image 20251130193805.png",
     "Attachments/Pasted image 20251130193623.png",
-    "Attachments/Pasted image 20251130193225.png",
-    "Experiments.md",
     "STM32_Daily_Log.md",
     "[Project-2/Exercise_log/Attachments/Pasted.md",
     "[Project-2/Exercise_log/Attachments",
