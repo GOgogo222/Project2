@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab0e1f8128bffe4d",
+  "active": "30bf920487da598f",
   "lastOpenFiles": [
     "Experiments.md",
     "STM32_Daily_Log.md",
