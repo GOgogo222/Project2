@@ -73,7 +73,9 @@ content_width/height ：实际可用的宽和高
 - border：有大小和颜色属性，真正意义上的**外壳**
 - margin：盒子之间的间距
 
+[深理解样式（Style）机制与应用方法_lvgl style](https://blog.csdn.net/weixin_52342399/article/details/146216851)
 
+浅理解一下样式，例如一个白色按钮，按下时变为黑色，那么可以说这个按钮由样式1（state1）
 
 **可以创建一个盒子，编译运行，直接看属性代表了盒子的哪一部分**
 
