@@ -19,3 +19,7 @@
 
 在vscode中修改，在Code::Blocks中编译运行
 
+LVGL的三层屏幕：lv_screen_active(活动屏幕) < lv_layer_top(顶层) < lv_layer_sys(系统层)
+
+创建一个对象的时候，要选择创建在哪一个图层（三选一）
+
