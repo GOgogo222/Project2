@@ -26,3 +26,9 @@ LVGL的三层屏幕：lv_screen_active(活动屏幕) < lv_layer_top(顶层) < lv
 “对象树讲的这么绕，lvgl一共有四颗对象树，优先级是父子，弟兄” 
 *——弹幕*
 
+演示了不同或相同图层的对象相互重叠的情况
+
+obj = object!
+
+
+
