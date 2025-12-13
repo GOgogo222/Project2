@@ -66,4 +66,8 @@ content_width/height ：实际可用的宽和高
 
 网页搜索的图片界面可以看作是一个盒子模型——让大小不一的图片也能排版整齐
 
+盒子模型主要有以下几个属性：content  padding  border  margin
+
+- content：内容，可以是图片，文字或者其他盒子，若其他盒子太大就会产生滚动条
+- padding：
 
