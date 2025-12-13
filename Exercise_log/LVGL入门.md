@@ -69,5 +69,9 @@ content_width/height ：实际可用的宽和高
 盒子模型主要有以下几个属性：content  padding  border  margin
 
 - content：内容，可以是图片，文字或者其他盒子，若其他盒子太大就会产生滚动条
-- padding：
+- padding：填充物，有软有硬
+- border：有大小和颜色属性，真正意义上的**外壳**
+- margin：盒子之间的间距
+
+
 
