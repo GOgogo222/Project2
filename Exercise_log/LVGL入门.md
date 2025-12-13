@@ -7,4 +7,6 @@
 
 [什么是句柄？指针和句柄的区别-CSDN博客](https://blog.csdn.net/perfectguyipeng/article/details/71189822)
 
-每个widget有其属性，位置，大小，央视
+每个widget有其属性，如位置，大小，样式等等。。。特殊的widget还有其特殊属性，最小，大值，当前值
+
+新建网页是一个很好的例子，想象浏览器是一个父类，而网页就是它的孩子
