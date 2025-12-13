@@ -38,3 +38,4 @@ obj = object!
 
 介绍一些设置宽，高的函数
 
+参数的计算或被搁置一段时间，得加上 lv_obj_update_layout(obj) 函数
