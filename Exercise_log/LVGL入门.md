@@ -38,4 +38,9 @@ obj = object!
 
 介绍一些设置宽，高的函数
 
-参数的计算或被搁置一段时间，得加上 lv_obj_update_layout(obj) 函数
+参数的计算会被搁置一段时间，得加上 lv_obj_update_layout(obj) 函数，get_width/get_height 函数才有意义
+
+content_width/height ：实际可用的宽和高
+
+
+
