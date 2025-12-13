@@ -46,5 +46,7 @@ content_width/height ：实际可用的宽和高
 
 ### 2-5-1 对象的位置
 
+坐标原点默认在画布的左上角顶点
 
+LVGL坐标系/LCD坐标系与笛卡尔数学zhi'jiao
 
