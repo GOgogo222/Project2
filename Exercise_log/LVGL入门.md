@@ -94,6 +94,10 @@ content_width/height ：实际可用的宽和高
 
 一个滑杆的指针：指示当前值的填充区域（进度条）
 
-LV_PART_MAIN，LV_PART_KNOB，
+LV_PART_MAIN（矩形），LV_PART_KNOB（旋钮），LV_PART_INDICATOR（指针）
+
+删除某部分或所有样式的remove函数
+
+
 
 
