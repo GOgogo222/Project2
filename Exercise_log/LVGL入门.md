@@ -98,6 +98,10 @@ LV_PART_MAIN（矩形），LV_PART_KNOB（旋钮），LV_PART_INDICATOR（指针
 
 删除某部分或所有样式的remove函数
 
+两种样式：共享样式和私有样式
+共享样式能节约空间，私有样式能打造“私有”组件
+[Gemini](https://gemini.google.com/share/2088240f4900)
 
+**介绍了样式，样式是一个自定义的类，其中的成员属性用来修饰一个组件的**
 
 
