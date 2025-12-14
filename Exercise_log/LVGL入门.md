@@ -92,6 +92,8 @@ content_width/height ：实际可用的宽和高
 多个对象可以共用一种样式
 一个对象可以承载多种样式
 
+一个滑杆的指针：指示当前值的填充区域（进度条）
 
+LV_PART_MAIN，LV_PART_KNOB，
 
 
