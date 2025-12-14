@@ -81,11 +81,21 @@ LCD与LED1~8共用了引脚PC7~15，引脚冲突
 “ARR 的比较结果是触发 Update Event（进而导致 CNT 重装、UIF 置位、可触发中断等全局行为），而 CCR 的比较结果是触发 CCx Event（进而根据模式决定本通道引脚动作、锁存时间戳、可触发中断等局部行为）”
 
 
-## 12_14_ADC
+## 12_14_ADC_UART
 
 ADCx->INx 置为Single_Ended（单端模式），完成ADC的初始化
 
 用 **HAL_ADC_GetValue（ADC_HandleTypeDef* hadc）** 获取数值，数字信号通过公式转换成模拟信号
 
 注意使用 **HAL_ADC_Start（ADC_HandleTypeDef* hadc）** 函数使能ADC！
+
+****************
+
+ENABLE  UART1，让PA9和PA10作为UART的TX和RX口，设置波特率
+
+**HAL_UART_Transmit (&huart1,( uint8_t * )  text,sizeof(text), 50 );**
+
+注意函数参数的**数据类型**
+
+最后用一个Delay函数让芯片喘口气
 
