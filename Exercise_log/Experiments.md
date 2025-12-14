@@ -87,5 +87,5 @@ ADCx->INx 置为Single_Ended（单端模式），完成ADC的初始化
 
 用 **HAL_ADC_GetValue（ADC_HandleTypeDef* hadc）** 获取数值，数字信号通过公式转换成模拟信号
 
-注意 **HAL_ADC_Start（ADC_HandleTypeDef* hadc）** 使能ADC！
+注意使用 **HAL_ADC_Start（ADC_HandleTypeDef* hadc）** 函数使能ADC！
 
