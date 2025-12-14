@@ -83,4 +83,6 @@ LCD与LED1~8共用了引脚PC7~15，引脚冲突
 
 ## 12_14_ADC
 
+ADCx->INx 置为Single_Ended（单端模式），完成ADC的初始化
+
 
