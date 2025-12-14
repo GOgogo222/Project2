@@ -106,3 +106,5 @@ LV_PART_MAIN（矩形），LV_PART_KNOB（旋钮），LV_PART_INDICATOR（指针
 
 ### 2-8-1 事件（events）
 
+临时变量容易被销毁，需要创建全局或静态（static）变量
+
