@@ -90,6 +90,7 @@ ADCx->INx 置为Single_Ended（单端模式），完成ADC的初始化
 注意使用 **HAL_ADC_Start（ADC_HandleTypeDef* hadc）** 函数使能ADC！
 
 ****************
+**发：**
 
 ENABLE  UART1，让PA9和PA10作为UART的TX和RX口，设置波特率
 
@@ -98,4 +99,8 @@ ENABLE  UART1，让PA9和PA10作为UART的TX和RX口，设置波特率
 注意函数参数的**数据类型**
 
 最后用一个Delay函数让芯片喘口气
+
+**收：**
+
+收的原理是：收到数据之后再重新发送给串口助手
 
