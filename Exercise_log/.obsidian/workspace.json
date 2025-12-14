@@ -35,8 +35,7 @@
               "title": "LVGL入门"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a7848f03c372aa0",
+  "active": "8b2963e68812291c",
   "lastOpenFiles": [
     "LVGL入门.md",
     "Experiments.md",
