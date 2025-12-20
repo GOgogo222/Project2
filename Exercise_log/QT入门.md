@@ -55,5 +55,7 @@ https://www.bilibili.com/video/BV12B4y1h7QX?t=682.2
 
 https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 
+### 3  
 
+用标签（lable），按钮（button），输入框（lineEdit）实现一个简单的界面
 
