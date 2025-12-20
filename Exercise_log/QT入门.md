@@ -28,7 +28,9 @@ https://www.bilibili.com/video/BV1g4411H78N?t=1072.5&p=4
 Qt模块的认识。。。(Qt Modules)
 
 - core；gui；widgets
-- network；multimedia；networkauth；multimediawidgets
+- network；multimedia；networkauth；multimediawidgets（主要用于app联网和媒体播放功能）
+
+主要讲解的是
 
 
 
