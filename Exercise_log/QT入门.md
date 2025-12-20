@@ -30,11 +30,17 @@ Qt模块的认识。。。(Qt Modules)
 - core；gui；widgets
 - network；multimedia；networkauth；multimediawidgets（主要用于app联网和媒体播放功能）
 
-.pro文件介绍
+.pro文件介绍：
 **.pro就是工程文件（project），它是qmake自动生成的用于生产makefile的配置文件**
 
-讲解 **.pro** 文件可以用来设置一个Qt工程中所包含的模块（Moudles），生成的 **.exe** 文件的名称，模板（Te）
+一个 .pro 文件所包含的东西：
+模块（Moudles），生成的 **.exe** 文件的名称，模板（Template），源文件，头文件
+
+“相当于我自己写了一个类（MyPro01），继承了QWidget的窗口类”
 
 *********
 在 Qt 项目的 `.pro` 文件中，**应用程序模板（TEMPLATE）** 是一个非常关键的变量。它告诉 Qt 的构建工具 `qmake`：“**这个项目最终要生成一个什么东西？**”
+*——Gemini*
+
+
 
