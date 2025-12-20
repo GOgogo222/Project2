@@ -14,8 +14,9 @@ https://www.bilibili.com/video/BV1g4411H78N?t=1072.5&p=4
 
 **主要熟悉了一个Qt程序的创建过程**
 
-**有且仅有一个的QApplication，同时是myPro01的父类**
+**主要学习了初始代码的部分，为它们写上了简明的注释**
 
+********
 - **`QWidget`** 是 Qt 所有界面元素的**基类（祖先）**。
     
 - 你的 `MyPro01` 继承自 `QMainWindow`（而 `QMainWindow` 又继承自 `QWidget`）。
