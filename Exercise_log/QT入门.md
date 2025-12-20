@@ -53,6 +53,10 @@ class MyPro01 : public QMainWindow（`QMainWindow` 是 Qt 官方写好的一个�
 
 https://www.bilibili.com/video/BV12B4y1h7QX?t=682.2
 
+**Frame**的布局
+
+**stytleSheet**的基础语法
+
 
 
 
