@@ -67,5 +67,8 @@ https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 
 在**帮助**中搜索**QProgress**
 
+[在VS中开发Qt](https://blog.csdn.net/jiratao/article/details/118927622)
+
+
 
 
