@@ -39,7 +39,12 @@ Qt模块的认识。。。(Qt Modules)
 “相当于我自己写了一个类（MyPro01），继承了QWidget的窗口类”
 
 *********
+应用程序模板：
 在 Qt 项目的 `.pro` 文件中，**应用程序模板（TEMPLATE）** 是一个非常关键的变量。它告诉 Qt 的构建工具 `qmake`：“**这个项目最终要生成一个什么东西？**”
+*——Gemini*
+
+继承QMainWindow类：
+class MyPro01 : public QMainWindow（`QMainWindow` 是 Qt 官方写好的一个“标准主窗口”。通过 `: public`，你的 `MyPro01` 自动拥有了主窗口的所有功能 ）
 *——Gemini*
 
 
