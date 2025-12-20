@@ -57,5 +57,7 @@ https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 
 ### 3  
 
-用标签（lable），按钮（button），输入框（lineEdit）实现一个简单的界面
+用标签（lable），按钮（button），输入框（lineEdit）实现**一个简单的界面**
+
+**右键标签（lable）**->改变格式文本，这里可以非常灵活地设计文本的内容
 
