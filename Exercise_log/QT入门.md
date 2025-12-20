@@ -10,5 +10,7 @@
 Qt教程：
 https://www.bilibili.com/video/BV1g4411H78N?t=1072.5&p=4
 
+## 1_04 创建第一个Qt程序
 
+**主要熟悉了一个Qt程序的创建过程，**
 
