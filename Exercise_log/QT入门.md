@@ -65,5 +65,7 @@ https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 
 信号（点击某个按钮）与槽（做出响应，执行槽函数）
 
+在**帮助**中搜索**QProgress**
+
 
 
