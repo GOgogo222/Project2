@@ -22,3 +22,13 @@ https://www.bilibili.com/video/BV1g4411H78N?t=1072.5&p=4
 - 你的 `MyPro01` 继承自 `QMainWindow`（而 `QMainWindow` 又继承自 `QWidget`）。
     
 - **结论：** `QWidget` 才是父类，`MyPro01` 是子类。
+
+## 1_05 
+
+Qt模块的认识。。。(Qt Modules)
+
+- core；gui；widgets
+- network；multimedia；networkauth；multimediawidgets
+
+
+
