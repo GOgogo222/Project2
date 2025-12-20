@@ -49,7 +49,11 @@ Qt模块的认识。。。(Qt Modules)
 class MyPro01 : public QMainWindow（`QMainWindow` 是 Qt 官方写好的一个“标准主窗口”。通过 `: public`，你的 `MyPro01` 自动拥有了主窗口的所有功能 ）
 *——Gemini*
 
-## 1_06
+## 学习Qt Designer
+
+https://www.bilibili.com/video/BV12B4y1h7QX?t=682.2
+
+
 
 
 
