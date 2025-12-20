@@ -61,8 +61,9 @@ https://www.bilibili.com/video/BV12B4y1h7QX?t=682.2
 
 **Ctrl+R**：预览效果
 
+## QT快速入门 | 最简单最简洁的QT入门教程
 
-
+https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 
 
 
