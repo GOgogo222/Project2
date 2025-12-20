@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QT.md",
+                "file": "QT入门.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QT"
+              "title": "QT入门"
             }
           }
         ],
@@ -225,7 +225,7 @@
   },
   "active": "e2eba2cc4e4ada4e",
   "lastOpenFiles": [
-    "QT.md",
+    "QT入门.md",
     "DIY Echo-Mate LOG.md",
     "Experiments.md",
     "LVGL入门.md",
