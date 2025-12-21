@@ -27,6 +27,7 @@ vector容器的语法：vector<Person> p；
 
 string的本质是一个类，同时是一个char*型的容器
 
+**24**
 
 
 
