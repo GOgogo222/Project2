@@ -1,4 +1,3 @@
-
 ## 12_21
 
 **从这里开始：** https://www.bilibili.com/video/BV1et411b73Z?t=13.4&p=187
@@ -11,7 +10,7 @@
 
 构造函数
 
-vector容器的语法：vector<Person> p；
+vector容器的语法：vector<类名> p；
 
 往容器中插入数据：p.push_back(...);
 
@@ -58,7 +57,8 @@ str1.compare(str2) == 0 : str1和str2是否相等
 
 **28**
 
-通过
+通过 **[]** 访问单个字符
+
 
 
 
