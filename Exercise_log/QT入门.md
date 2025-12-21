@@ -77,7 +77,7 @@ https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 
 [02.【Qt开发】Qt Creator介绍及新建项目流程](https://blog.csdn.net/qq_54652195/article/details/148239518)
 
-
+*暂时把Qt放一放，我的Qt有点坏了。。。*
 
 
 
