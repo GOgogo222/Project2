@@ -31,13 +31,14 @@ string的本质是一个类，同时是一个char*型的容器
 
 注意，string类型的变量（自定义类）之所以能像普通变量那样运算，是因为运算符重载，.assign是更为原始的函数实现方法
 
-****
+**赋值**
 .assign(‘'hello world'’,5)：表示在“hello world”中取前五个字符，简述“hello world”中的前五个
 
 .assidn(10,‘a’)：表示把‘a’字符取十个，简述10个‘a’
 
 **25**
 
+**附加**
 str.append("game steam")函数方法  等价于=>  str += "game steam" 
 
 **26**
@@ -49,6 +50,14 @@ str.append("game steam")函数方法  等价于=>  str += "game steam"
 
 **替换（replace）**
 .replace(1,3,"1111") 表示从1号位置起三个字符 替换为 “1111”
+
+**27**
+
+**比较**
+str1.compare(str2) == 0 : str1和str2是否相等
+
+
+
 
 
 
