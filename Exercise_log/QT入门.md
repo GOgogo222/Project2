@@ -71,6 +71,14 @@ https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 
 输出调试信息：项目属性->连接器->选择控制台
 
+## 12_21
+
+### 4
+
+[02.【Qt开发】Qt Creator介绍及新建项目流程](https://blog.csdn.net/qq_54652195/article/details/148239518)
+
+
+
 
 
 
