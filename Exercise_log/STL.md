@@ -126,6 +126,7 @@ vector<int>v2(v1);
 vector<int>v2;
 // 通过区间赋值
 v2.assign(v1.begin(),v1.end());
-
-v2
+// n个elem值赋值
+v2.assign(10,1); 
+~~~
 
