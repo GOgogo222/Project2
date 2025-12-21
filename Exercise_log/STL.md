@@ -41,7 +41,9 @@ str.append("game steam")函数方法  等价于=>  str += "game steam"
 
 **26**
 
-.find(“”)：在字符串中查找，返回 **int** 类型值（从0开始）
+.find(“”)：在字符串中查找，返回 **int** 类型值（从0开始）表示
+
+.rfind(“”)：从右往左找
 
 
 
