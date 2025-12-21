@@ -268,3 +268,21 @@ d1.push_back(i);
 
 **分为大于和小于原来大小的两种情况**
 
+**41**
+
+**头插**
+
+.push_front(elem);  ---> 前面说了，头插是deque相比于vector的一大优势
+
+**尾插**
+
+.push_back(elem);
+
+**头删**
+
+.pop_front();
+
+**尾删**
+
+.pop_back();
+
