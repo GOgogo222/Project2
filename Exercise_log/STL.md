@@ -310,4 +310,15 @@ d1.push_back(i);
 
 .front() 返回第一个元素
 
-.back() fan'hu
+.back() 返回最后一个元素
+
+**43**
+
+**sort排序，一个来自algorithm头文件的算法**
+
+algorithm
+algorithm
+algorithm
+
+sort(d1.begin(),d1.end()); ---> 函数参数要用迭代器
+
