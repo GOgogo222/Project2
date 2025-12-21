@@ -224,5 +224,18 @@ v.reserve(10000);
 
 使得deque使用是像一片连续的内存空间
 
+**构造**
+
+~~~
+deque<int> d1;
+// 区间构造
+deque<int>d2(d1.begin(),d1.end());
+// n个elem值构造
+deque<int>d2(10,1);
+// 拷贝构造
+deque<int>d2(d1);
+// 添加数据i
+d1.push_back(i);
+~~~
 
 
