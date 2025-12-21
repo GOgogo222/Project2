@@ -56,6 +56,9 @@ str.append("game steam")函数方法  等价于=>  str += "game steam"
 **比较**
 str1.compare(str2) == 0 : str1和str2是否相等
 
+**28**
+
+通过
 
 
 
