@@ -4,7 +4,7 @@
 
 驯服VS Code：按 F6 编译且运行。。。
 
-解决中文乱码问题：将UTF-8该为GBK
+解决中文乱码问题：将UTF-8该为GBK，再按一下“Ctrl+Z”
 
 **21**
 
@@ -118,4 +118,14 @@ vector<int>v2(10,1);
 vector<int>v2(v1);
 ~~~
 
-##
+**32**
+
+**赋值**
+
+~~~
+vector<int>v2;
+// 通过区间赋值
+v2.assign(v1.begin(),v1.end());
+
+v2
+
