@@ -158,4 +158,13 @@ v2.assign(10,1);
 .pop_back()
 
 **插入**
-.insert(v1.begin(),100); 表示在第0
+.insert(v1.begin(),100); 表示在第0号位置插入数值100
+
+.insert(v1.begin(),int count,100); 表示在第0号位置插入count个100
+
+**删除**
+.erase(v1.begin()); 表示删除第0号位置的数据
+
+.erase(v1.begin(),v1.end()); 区间清空
+
+
