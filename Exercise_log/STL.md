@@ -110,12 +110,12 @@ str1.compare(str2) == 0 : str1和str2是否相等
 
 **构造方式（已有v1的前提下）**
 ~~~
-vector<int>v2(v1.)
+// 通过区间构造
+vector<int>v2(v1.begin(),v1.end());
+// n个elem值构造
+vector<int>v2(10,1);
+// 拷贝构造
+vector<int>v2(v1);
+~~~
 
-
-
-
-
-
-
-
+##
