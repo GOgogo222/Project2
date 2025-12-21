@@ -69,6 +69,10 @@ https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 
 [在VS中开发Qt](https://blog.csdn.net/jiratao/article/details/118927622)
 
+输出调试信息：项目属性->连接器->选择控制台
+
+
+
 
 
 
