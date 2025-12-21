@@ -286,3 +286,12 @@ d1.push_back(i);
 
 .pop_back();
 
+**插入**
+
+.insert(pos,elem);  // 在第pos号位置上插入元素elem
+
+.insert(pos,n,elem); // 在第pos号位置上插入n个elem元素
+
+.insert(pos,beg,end); // 在第pos号位置上插入从beg到end区间的数据
+
+**注意，是左闭右开区间！！！**
