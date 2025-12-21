@@ -35,6 +35,9 @@ string的本质是一个类，同时是一个char*型的容器
 
 .assidn(10,‘a’)：表示把‘a’字符取十个，简述10个‘a’
 
+**25**
+
+str.append("game steam")函数方法 等价于=> str += "game steam" 
 
 
 
