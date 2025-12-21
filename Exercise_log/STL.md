@@ -37,7 +37,11 @@ string的本质是一个类，同时是一个char*型的容器
 
 **25**
 
-str.append("game steam")函数方法 等价于=> str += "game steam" 
+str.append("game steam")函数方法  等价于=>  str += "game steam" 
+
+**26**
+
+.find(“”)：在字符串中查找，返回 **int**
 
 
 
