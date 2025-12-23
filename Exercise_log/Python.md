@@ -13,7 +13,12 @@ https://www.bilibili.com/video/BV1d54y1g7db?t=161.9&p=3
 **具体到代码就是：**
 ~~~
 import requsets  // 引入库文件
-if requests.ok:
-	print(reponse.txt)
+if requests.ok:  // 判断是否请求成功
+	print(reponse.txt) // 打印网页HML源码
 else 
 	print("请求失败！")
+~~~
+
+
+**加入一个head，让你的爬虫伪装成浏览器！**
+
