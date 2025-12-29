@@ -50,5 +50,7 @@ HTML常见的标签：
 
 **大致的格式是：**<>... ... < />
 
-## 12_
+## 12_29
+
+**BeautifulSoup解析HTML内容。** 课程里面讲的主要是怎么通过一些库函数(findAll(),BeautifulSoup()等) 找到HTML中特定的内容。
 
