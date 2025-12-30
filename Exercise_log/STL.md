@@ -336,13 +336,21 @@ sort(d1.begin(),d1.end());
 
 **46**
 
+**构造**
+~~~
+//
+stack<type>s;
+//拷贝构造函数
+stack(s); 
+~~~
+
 **入栈**
 .push()
 
 **出栈**
 .pop()
 
-**注意**，这里的push和pop
+**注意**，这里的push和pop没有带 “ _ ”  ，  说明没有区分front和back
 
 **大小**
 .size()
