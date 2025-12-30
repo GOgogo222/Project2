@@ -445,7 +445,15 @@ list<int>L2(n,elem);
 
 **51**
 
-
+**赋值**
+~~~
+//构造
+list<int>L1;
+list<int>L2;
+//operator "=" 赋值
+L2 = L1;
+//函数方法".assign()"赋值
+L2.assign(L1.begin(),L1.end());
 
 
 
