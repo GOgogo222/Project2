@@ -341,7 +341,7 @@ sort(d1.begin(),d1.end());
 //
 stack<type>s;
 //拷贝构造函数
-stack(s); 
+stack(const stack &stk); 
 ~~~
 
 **入栈**
@@ -357,6 +357,17 @@ stack(s);
 
 **判断是否为空**
 .empty()
+
+
+### queue容器
+*******
+
+**47**
+
+**概念**，一种先进先出的数据结构，相比于stack容器，它有两个出口
+
+
+
 
 
 
