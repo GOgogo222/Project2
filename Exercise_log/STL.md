@@ -428,9 +428,14 @@ for(Container<type>::const_iterator it = X.begin(); it != X.end(); it++)
 {
 	cout << *it << " ";
 }
+//container表示容器 type表示数值类型 需要注意的是const_iterator的写法
 ~~~
 
-
+**构造**
+~~~
+//
+list<int>L1;
+//区间构造
 
 
 
