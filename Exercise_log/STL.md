@@ -435,7 +435,15 @@ for(Container<type>::const_iterator it = X.begin(); it != X.end(); it++)
 ~~~
 //
 list<int>L1;
-//区间构造
+//区间&拷贝构造
+list<int>L2(L1.begin(),L1.end());
+//拷贝构造
+list<int>L2(L1);
+//n个elem值构造
+list<int>L2(n,elem);
+~~~
+
+**51**
 
 
 
