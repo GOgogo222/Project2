@@ -422,6 +422,13 @@ list使用的迭代器是**双向迭代器**，只支持前移和后移，就是
 
 **50**
 
+迭代器遍历的语法
+~~~
+for(Container<type>::const_iterator it = X.begin(); it != X.end(); it++)
+{
+	cout << *it << " ";
+}
+~~~
 
 
 
