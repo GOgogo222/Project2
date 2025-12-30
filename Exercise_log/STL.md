@@ -455,7 +455,27 @@ L2 = L1;
 //函数方法".assign()"赋值
 L2.assign(L1.begin(),L1.end());
 
+L2.assgin(n,elem);
+~~~
 
+**交换**
+~~~
+L1.swap(L2);
+~~~
+
+**52**
+
+**大小操作**
+~~~
+list<int>L1;
+//元素的个数
+L1.size();
+//
+L1.empty();
+//
+L1.resize(num);
+//
+L1.resize(num,elem);
 
 
 
