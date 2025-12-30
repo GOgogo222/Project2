@@ -470,12 +470,14 @@ L1.swap(L2);
 list<int>L1;
 //元素的个数
 L1.size();
-//
+//判断是否为空
 L1.empty();
-//
+//重新指定大小（默认值填充）
 L1.resize(num);
-//
+//重新指定大小（elem值填充）
 L1.resize(num,elem);
+~~~
+
 
 
 
