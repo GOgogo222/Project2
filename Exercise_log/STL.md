@@ -366,10 +366,24 @@ stack(const stack &stk);
 
 **概念**，一种先进先出的数据结构，相比于stack容器，它有两个出口
 
+**48**
 
+**构造**
+~~~
+//
+queue<type> que;
+//拷贝构造
+queue(const queue &que)
+~~~
 
+**入队**
+.push(elem) ---》 队尾插入
 
+**出队**
+.pop() ---》队头弹出
 
+**返回值**
+.back() 
 
 
 
