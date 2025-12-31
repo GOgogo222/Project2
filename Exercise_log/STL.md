@@ -629,6 +629,8 @@ int num = s1.count(30); //返回30的个数
 cout << num << " 个" << endl;
 ~~~
 
-对于set而言，count统计的结果要么shi
+对于set而言，count统计的结果要么是0，要么是1
+
+
 
 
