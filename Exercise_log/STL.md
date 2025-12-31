@@ -579,3 +579,9 @@ s.insert(elem);
 **set容器只有insert!**
 **set容器只有insert!**
 **set容器只有insert!**
+
+**58**
+
+set容器的插入反而不能指定位置，毕竟会自动排序
+
+**删除**
