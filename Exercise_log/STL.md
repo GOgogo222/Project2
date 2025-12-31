@@ -607,3 +607,15 @@ s1.clear()
 
 **60**
 
+set特色：
+**查找**
+s1.find(elem) ---> 若找到elem值则返回其迭代器（位置）
+~~~
+//示例
+set<int>::iterator pos = s1.find(30);
+if(pos != s1.end())
+{
+	cout << *pos << endl;
+} else {
+	cout << "Not Found!" << 
+}
