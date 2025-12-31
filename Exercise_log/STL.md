@@ -650,4 +650,18 @@ pair<string,int>p2 = make_pair("Jerry",20);
 ...
 ~~~
 
-**63**
+==63==
+
+这一节很有意思，涉及**仿函数**，**数据类型**，**类**，**int/float**等相通的概念
+
+**改变排序规则**
+~~~
+class MyCompare
+{
+public:
+	bool operator()(int v1,int v2)
+	{
+		return v1 > v2;
+	}
+}
+
