@@ -534,4 +534,14 @@ L.sort();
 
 **56**
 
+使用sort排序的小技巧
+~~~
+bool compare(int a,int b)
+{
+	return a < b;
+}
+L.sort(compare); // 注意这里的compare是不带()的
+~~~
+
+这一节讲的主要是基于自定义数据类型的sort排序，要求
 
