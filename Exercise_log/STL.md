@@ -631,6 +631,18 @@ cout << num << " 个" << endl;
 
 对于set而言，count统计的结果要么是0，要么是1
 
+**61**
 
+用pair对组解释了set容器和multiset容器能否插入重复的数据
+
+**62**
+
+对组pair，一个变量名，两种数据类型
+
+**构造**
+~~~
+//一
+pair<string,int>p("Tom",20);
+c
 
 
