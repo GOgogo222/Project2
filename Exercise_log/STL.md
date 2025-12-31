@@ -656,12 +656,19 @@ pair<string,int>p2 = make_pair("Jerry",20);
 
 **改变排序规则**
 ~~~
+//示例
 class MyCompare
 {
 public:
-	bool operator()(int v1,int v2)
+	bool operator()(int v1,int v2)     //"（）（）"典型的仿函数
 	{
 		return v1 > v2;
 	}
 }
+
+set<int,MyCompare>s2;
+~~~
+
+从上述示例可以看出<>中，只能放数据类型，不能是变量名，也不能是函数名
+
 
