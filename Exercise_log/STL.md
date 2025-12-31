@@ -641,8 +641,13 @@ cout << num << " 个" << endl;
 
 **构造**
 ~~~
+//示例
 //一
 pair<string,int>p("Tom",20);
-c
+cout << "name：" << p.first << " age:" << p.second << endl;
+//二
+pair<string,int>p2 = make_pair("Jerry",20);
+...
+~~~
 
-
+**63**
