@@ -561,5 +561,21 @@ set允许重复的元素
 而multiset不允许有重复的元素
 
 **构造**
+~~~
+//
+set<Type> s;
+//拷贝构造
+set<Type>s2(s1);
+//赋值构造
+set<Type>s2;
+s2 = s1;
+~~~
 
+**插入**
+~~~
+s.insert(elem);
+~~~
 
+**set容器只有insert!**
+**set容器只有insert!**
+**set容器只有insert!**
