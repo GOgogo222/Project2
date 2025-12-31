@@ -607,7 +607,6 @@ s1.clear()
 
 **60**
 
-set特色：
 **查找**
 s1.find(elem) ---> 若找到elem值则返回其迭代器（位置）
 ~~~
@@ -617,5 +616,19 @@ if(pos != s1.end())
 {
 	cout << *pos << endl;
 } else {
-	cout << "Not Found!" << 
+	cout << "Not Found!" << endl;
 }
+~~~
+
+set特色
+**查找**
+s1.count(elem); //统计elem的个数
+~~~
+//示例
+int num = s1.count(30); //返回30的个数
+cout << num << " 个" << endl;
+~~~
+
+对于set而言，count统计的结果要么shi
+
+
