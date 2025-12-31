@@ -543,5 +543,10 @@ bool compare(int a,int b)
 L.sort(compare); // 注意这里的compare是不带()的
 ~~~
 
-这一节讲的主要是基于自定义数据类型的sort排序，要求
+这一节讲的主要是基于自定义数据类型的sort排序，要求你必须指定排序规则，否则报错
+
+### set/multiset容器
+****
+
+**57**
 
