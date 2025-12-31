@@ -480,7 +480,16 @@ L1.resize(num,elem);
 
 **53**
 
+**插入**
+~~~
+//参数只能是迭代器的限制
+//在begin的后面插入1000
+list<int>::iterator it = L.begin();
+L.insert(it++,1000);
+~~~
 
+**删除**
+~~~
 
 
 
