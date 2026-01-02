@@ -692,7 +692,19 @@ map中的所有元素都是pair，一个key（键值），一个vaule（实值�
 **本质**
 map/multimap属于关联式容器，底层是二叉树
 
-pair被当作是
+**构造**
+~~~
+//
+map<int,int>m;
+//拷贝构造
+map<int,int>m2(m);
+~~~
+
+**插入**
+pair被当作是一种数据类型，map的每一个数据元素都被要求是pair类型，故有：
+~~~
+m.insert(pair<int,int>(1,10));
+~~~
 
 
 
