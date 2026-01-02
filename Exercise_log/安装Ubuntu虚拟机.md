@@ -24,3 +24,7 @@ sudo reboot
 
 [Linux环境下的Ubuntu虚拟机安装VScode超详解-CSDN博客](https://blog.csdn.net/qq_45009309/article/details/136577582)
 
+**字体太小**
+
+
+
