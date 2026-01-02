@@ -13,6 +13,8 @@ git submodule update --init --recursive **无响应**
 
 尝试NAT模式 --- 》成功
 
+仿真 ---》成功
+
 
 
 
