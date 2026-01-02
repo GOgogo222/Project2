@@ -9,7 +9,14 @@
 
 虚拟网络编辑器-重启网络配置 ---》***成功！！！***
 
+## 无法正常复制
 
+~~~
+sudo apt update
+sudo apt install open-vm-tools open-vm-tools-desktop
+sudo reboot
+~~~
 
+**注意**，其他的下载进程会影响**terminal**中的下载
 
 
