@@ -21,6 +21,8 @@ git submodule update --init --recursive **无响应**
 
 设置 **右键粘贴（Paste）**
 
+成功关闭防火墙（关闭安全软件Lenovo管家）
+
 
 
 
