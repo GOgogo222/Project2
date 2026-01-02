@@ -13,6 +13,14 @@ git submodule update --init --recursive **无响应**
 
 尝试NAT模式
 
+edit-visual network editor
+新建一个适用于NAT模式的VMnet8网卡
+配置这个网卡为NAT模式，并：
+- 勾选 connect a host。。。
+- 勾选 host-only 。。。
+
+**记住**，VMnet0适用于brige模式，VM
+
 
 
 
