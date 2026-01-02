@@ -761,6 +761,17 @@ m.erase(m.begin(),m.end());
 
 **排序**
 像set和map这种自带排序算法（从小到大）的容器，我们更需要了解如何去改变其排序规则
+~~~
+class MyCompare
+{
+public:
+	bool operator()(int v1,int v2)
+	{
+		return v1 > v2;
+	}
+};
 
+map<int,int,MyCompare>m;
+//这样就
 
 
