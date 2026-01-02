@@ -11,8 +11,7 @@ git submodule update --init --recursive **无响应**
 
 暂时确诊为无法连接外网
 
-尝试NAT模式
-
+尝试NAT模式 --- 》成功
 
 
 
