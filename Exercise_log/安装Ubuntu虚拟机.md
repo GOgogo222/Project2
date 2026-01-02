@@ -24,7 +24,17 @@ sudo reboot
 
 [Linux环境下的Ubuntu虚拟机安装VScode超详解-CSDN博客](https://blog.csdn.net/qq_45009309/article/details/136577582)
 
-**字体太小**
+### 虚拟机的NAT模式
 
+edit-visual network editor
+新建一个适用于NAT模式的VMnet8网卡
+配置这个网卡为NAT模式，并：
+- 勾选 connect a host。。。
+- 勾选 host-only 。。。
 
+**记住**，VMnet0适用于brige模式，VMnet8适用于NAT模式
+
+这也是我的DHCP Service和NAT Service总是有“毛病”的原因（这两个Service只服务于NAT模式！而NAT模式又需要勾选特定的选项！）
+
+最后成功连上外网
 
