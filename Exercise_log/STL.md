@@ -713,7 +713,12 @@ m.insert(pair<int,int>(1,10));
 **66**
 
 **大小**
-.size() ---》返回的是vaule
+.size(); ---》返回的是vaule**或**key的个数
+
+.empty(); ---》判断是否为空
+
+**交换**
+m.swap(m2);
 
 
 
