@@ -19,6 +19,7 @@ sudo reboot
 
 **注意**，其他的下载进程会影响**terminal**中的下载
 
+这个tools还自带了**自适应收缩**功能
 ### 虚拟机暗装VS code
 
 [Linux环境下的Ubuntu虚拟机安装VScode超详解-CSDN博客](https://blog.csdn.net/qq_45009309/article/details/136577582)
