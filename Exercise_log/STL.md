@@ -1,6 +1,6 @@
 ## 12_21
 
-**从这里开始：** https://www.bilibili.com/video/BV1et411b73Z?t=13.4&p=187
+### **从这里开始：** https://www.bilibili.com/video/BV1et411b73Z?t=13.4&p=187
 
 驯服VS Code：按 F6 编译且运行。。。
 
@@ -680,12 +680,21 @@ set<int,MyCompare>s2;
 此外，两个容器都有为改变sort的排序方式提供相应途径，list通过一个compare函数，set通过仿函数重载（operator（）），这一点有些高深，需要好好理解
 
 
+
+## 1_2
 ### map容器
 
 **65**
 
 **简介**
-map中的所有元素都是pair，一个key（键值），一个vaule（实值）；gen'j
+map中的所有元素都是pair，一个key（键值），一个vaule（实值）；根据键值自动排序，multimap允许有重复的键值
+
+**本质**
+map/multimap属于关联式容器，底层是二叉树
+
+pair被当作是
+
+
 
 
 
