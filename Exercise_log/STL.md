@@ -23,7 +23,7 @@ vector容器的语法：vector<类名> p；
 ->：是专门为指针准备的
 
 
-### string
+### string容器
 ---
 
 **23**
@@ -93,7 +93,7 @@ str1.compare(str2) == 0 : str1和str2是否相等
 - 删除 - **erase**
 - 获取字符串 - **substr**
 
-### vector
+### vector容器
 ---
 
 **31**
@@ -210,7 +210,7 @@ v.reserve(10000);
 - 了解vector容器新开辟空间的特性，并知道如何缩减空间
 - 新的函数方法：empty(),reserve(),erase()
 
-### deque（双端队列）
+### deque容器（双端队列）
 ****
 
 **38**
@@ -678,6 +678,16 @@ set<int,MyCompare>s2;
 
 到这里，回顾一下list和set容器，list的特点是它的迭代器（只能向左或向右一步一步地移动），而set的特点则是其自带一个从小到大的排序算法；另外，这两个容器在排序算法（algorithm sort）上很有特点，list由于其迭代器的限制，无法使用algorithm的函数，而是“内嵌”有一个排序函数，二者在使用方法上略有不同。。。set容器可能是因为自带排序函数，则在插入数据元素上有所限制（只能使用insert插入）。
 此外，两个容器都有为改变sort的排序方式提供相应途径，list通过一个compare函数，set通过仿函数重载（operator（）），这一点有些高深，需要好好理解
+
+
+### map容器
+
+**65**
+
+**简介**
+map中的所有元素都是pair，一个key（键值），一个vaule（实值）；gen'j
+
+
 
 
 
