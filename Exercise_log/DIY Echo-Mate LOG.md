@@ -17,6 +17,8 @@ git submodule update --init --recursive **无响应**
 
 ### 使用MobaXterm
 
+[windows11 如何关闭防火墙_win11关闭防火墙和杀毒软件-CSDN博客](https://blog.csdn.net/undoshutdown/article/details/130505400)
+
 
 
 
