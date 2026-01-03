@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIY Echo-Mate LOG.md",
+                "file": "安装Ubuntu虚拟机.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DIY Echo-Mate LOG"
+              "title": "安装Ubuntu虚拟机"
             }
           }
         ],
@@ -145,8 +145,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,14 +251,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f17720fcd6e48883",
+  "active": "7f3c547db8876adf",
   "lastOpenFiles": [
-    "Experiments.md",
     "Python.md",
+    "DIY Echo-Mate LOG.md",
+    "Experiments.md",
     "QT入门.md",
     "STL.md",
     "LVGL入门.md",
-    "DIY Echo-Mate LOG.md",
     "安装Ubuntu虚拟机.md",
     "未命名.md",
     "STM32_Daily_Log.md",
