@@ -196,7 +196,6 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 **“软件触发和循环模式不可同时使用，因其速度快的特性，软件触发比较适合从存储器到存储器的转运”**
 
 
-
 ## November 2th
 
 了解了各个通信接口的特性，USART,I2C,SPI,CAN和USB
