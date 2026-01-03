@@ -46,3 +46,4 @@ MobaXterm ssh 密匙注册成功，账号登陆成功，密码：Txm****** @
 
 [申请高德地图API的Key并加以接口调用的方法_高德地图key-CSDN博客](https://blog.csdn.net/zhebushibiaoshifu/article/details/139373736)
 
+[阿里云百炼Qwen2.5 API 申请与使用指教程（windows系统）_qwen api申请-CSDN博客](https://blog.csdn.net/2303_76512236/article/details/147154011)
