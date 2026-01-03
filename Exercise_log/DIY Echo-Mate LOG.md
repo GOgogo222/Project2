@@ -30,7 +30,7 @@ git submodule update --init --recursive **无响应**
 [(8 封私信 / 80 条消息) 瑞芯微RK3588开发板的固件烧录完整教程（简单好上手） - 知乎](https://zhuanlan.zhihu.com/p/569120619)
 
 [3. 系统镜像烧录 — 快速使用手册—基于LubanCat-RK3528系列板卡 文档](https://doc.embedfire.com/linux/rk352x/quick_start/zh/latest/quick_start/flash_img/flash_img.html)
----》这个好
+---》**这个好**
 
 **已下载**：
 update.image
