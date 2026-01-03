@@ -771,7 +771,8 @@ public:
 	}
 };
 
-map<int,int,MyCompare>m;
-//这样就
+map<int,int,MyCompare> m;
+//这样就得到了一个自动降序的map容器
+~~~
 
 
