@@ -32,6 +32,9 @@ git submodule update --init --recursive **无响应**
 [3. 系统镜像烧录 — 快速使用手册—基于LubanCat-RK3528系列板卡 文档](https://doc.embedfire.com/linux/rk352x/quick_start/zh/latest/quick_start/flash_img/flash_img.html)
 ---》这个好
 
+**已下载**：
+update.image
+download.bin
 
 
 
