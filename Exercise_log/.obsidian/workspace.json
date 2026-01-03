@@ -145,7 +145,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,7 +252,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f3c547db8876adf",
+  "active": "f17720fcd6e48883",
   "lastOpenFiles": [
     "Experiments.md",
     "Python.md",
