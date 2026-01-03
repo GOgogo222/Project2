@@ -25,6 +25,10 @@ git submodule update --init --recursive **无响应**
 
 **无法连接NDIS**
 
+### 使用瑞芯微开发工具
+
+[(8 封私信 / 80 条消息) 瑞芯微RK3588开发板的固件烧录完整教程（简单好上手） - 知乎](https://zhuanlan.zhihu.com/p/569120619)
+
 
 
 
