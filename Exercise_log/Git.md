@@ -3,4 +3,6 @@
 
 [用 Git 在 Android 和 Windows 间同步 Obsidian 数据库 - 少数派](https://sspai.com/post/68989)
 ---》手机端连接GitHub
+---》搁置
+
 

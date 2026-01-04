@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安装Ubuntu虚拟机.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "安装Ubuntu虚拟机"
+              "title": "Git"
             }
           }
         ],
@@ -267,6 +267,7 @@
   },
   "active": "a8ef03428ad55cfc",
   "lastOpenFiles": [
+    "安装Ubuntu虚拟机.md",
     "DIY Echo-Mate LOG.md",
     "Experiments.md",
     "LVGL入门.md",
@@ -275,7 +276,6 @@
     "STL.md",
     "STM32_Daily_Log.md",
     "Git.md",
-    "安装Ubuntu虚拟机.md",
     "未命名",
     "Attachments/Pasted image 20251130193805.png",
     "Attachments/Pasted image 20251005105126.png",
