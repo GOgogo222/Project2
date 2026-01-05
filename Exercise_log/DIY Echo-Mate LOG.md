@@ -40,7 +40,7 @@ download.bin
 
 学会了给Ai“扔文档+提问”
 
-MobaXterm ssh 密匙注册成功，账号登陆成功，密码：Txm****** @
+MobaXterm ssh 密匙注册成功，账号登陆成功，密码：T *********   @
 
 ### 申请API Key
 

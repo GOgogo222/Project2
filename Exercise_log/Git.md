@@ -14,11 +14,11 @@
 
 本次大作业打算在虚拟机Ubuntu 22.03上完成
 
-
 [Git 基本操作 | 菜鸟教程](https://www.runoob.com/git/git-basic-operations.html)
 
-
+**目前会的基本操作**
 - git status
-- git 
+- git add .
 - git commit -m "<描述你做了什么>"
-- git 
+- git push origin main
+
