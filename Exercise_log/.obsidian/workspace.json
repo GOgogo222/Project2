@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ubuntu虚拟机 22.04.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ubuntu虚拟机 22.04"
+              "title": "Git"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "a8ef03428ad55cfc",
   "lastOpenFiles": [
-    "Git.md",
     "Ubuntu虚拟机 22.04.md",
+    "Git.md",
     "DIY Echo-Mate LOG.md",
     "LVGL入门.md",
     "Experiments.md",
