@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Python"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "a8ef03428ad55cfc",
   "lastOpenFiles": [
-    "Ubuntu虚拟机 22.04.md",
     "Git.md",
+    "Ubuntu虚拟机 22.04.md",
     "DIY Echo-Mate LOG.md",
     "LVGL入门.md",
     "Experiments.md",
