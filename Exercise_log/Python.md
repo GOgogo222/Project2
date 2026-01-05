@@ -59,6 +59,7 @@ HTML常见的标签：
 practice01:
 简单来说，三行代码就能完成爬取动作，然后再在“检查”里面随机抓取一个“User Agent”让爬虫伪装一下就能获取HTML数据了
 
-
-
+practice02:
+HTML只是源码，我们要使用BeautifulSoup的特定解析器对它进行解析，要明确你所要的数据在哪一个标签的哪一个具体元素（比如span标签的string）
+换页的原理就是改变起始页“start”的值
 
