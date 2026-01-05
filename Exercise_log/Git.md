@@ -17,3 +17,8 @@
 
 [Git 基本操作 | 菜鸟教程](https://www.runoob.com/git/git-basic-operations.html)
 
+
+- git status
+- git 
+- git commit -m "<描述你做了什么>"
+- git 
