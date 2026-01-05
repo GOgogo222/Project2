@@ -1,5 +1,8 @@
 
+
 **1_2**
+
+## **安装**
 
 [VMware中安装配置Ubuntu（2024最新版 超详细）_vmware安装ubuntu-CSDN博客](https://blog.csdn.net/air_729/article/details/143105854)
 
@@ -37,4 +40,8 @@ edit-visual network editor
 这也是我的DHCP Service和NAT Service总是有“毛病”的原因（这两个Service只服务于NAT模式！而NAT模式又需要勾选特定的选项！）
 
 最后成功连上外网
+
+**1_5**
+
+Ctrl+' " ' = @
 
