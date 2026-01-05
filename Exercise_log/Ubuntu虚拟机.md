@@ -48,3 +48,6 @@ Ctrl+' " ' = @
 [ubuntu22.04无法实现复制粘贴的解决方法_ubuntu里的u盘不能粘贴-CSDN博客](https://blog.csdn.net/m0_59228082/article/details/148627354)
 ---》下载后可以使用“C+V”复制粘贴
 
+[Ubuntu 22.04.3 常用软件和配置_ubuntu常用软件-CSDN博客](https://blog.csdn.net/xunyan6234/article/details/136054399)
+---》总结得非常详细
+
