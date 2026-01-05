@@ -22,3 +22,5 @@
 - git commit -m "<描述你做了什么>"
 - git push origin main
 
+"Ctrl+Insert" 有时也会失灵！
+
