@@ -44,4 +44,5 @@
 [Diditzh的开源空间](https://digitzh.github.io/posts/GitHub%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%9A%84%E5%AE%8C%E5%85%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)
 ---》非常有效，检测到我的名称设置有问题
 
-完成了一个简单的fork和requ
+完成了一个简单的fork和pull request
+
