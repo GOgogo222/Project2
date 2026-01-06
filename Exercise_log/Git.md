@@ -83,5 +83,7 @@ git checkout dev
 > [!另外，使用git checkout命令加上参数-b，我们还可以创建分支。比如假如当前test分支不存在，我们可以通过git checkout -b test来创建，并且还会自动切换到新建出的test分支上。] 
 
 ~~~
-git checkout -b 
+git checkout -b dev
+//创建分支，并切换到该分支上
 ~~~
+
