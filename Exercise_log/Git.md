@@ -73,3 +73,15 @@ git remote rm origin
 [(8 封私信 / 80 条消息) 图解git，用手绘图带你理解git中分支的原理和应用 - 知乎](https://zhuanlan.zhihu.com/p/268687184)
 
 
+~~~
+git branch dev
+//创建分支
+git checkout dev
+//切换到dev分支
+~~~
+
+> [!另外，使用git checkout命令加上参数-b，我们还可以创建分支。比如假如当前test分支不存在，我们可以通过git checkout -b test来创建，并且还会自动切换到新建出的test分支上。] 
+
+~~~
+git checkout -b 
+~~~
