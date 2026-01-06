@@ -57,12 +57,11 @@ git remote add origin git@github.com:wangjiax9/practice.git
 //关联远程仓库
 
 git push -u origin master
-//把本地库的所有内容推送到远程库上
+//推送
 
-git remote rm origin 给i他
+git remote rm origin
+//删除关联的仓库
 //常用于ssh关联，避免反复输入账号名和密码
-
-
 ```
 
- 
+ 我们在**clone**的时候可能就会产生一个https的关联，但为了避免反复输入账号名和密码，我们需要删除原先的关联，然后新建一个ssh密匙关联
