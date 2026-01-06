@@ -59,8 +59,10 @@ git remote add origin git@github.com:wangjiax9/practice.git
 git push -u origin master
 //把本地库的所有内容推送到远程库上
 
-git remote rm origin
+git remote rm origin 给i他
 //常用于ssh关联，避免反复输入账号名和密码
+
+
 ```
 
  
