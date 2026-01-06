@@ -66,5 +66,10 @@ git remote rm origin
 
  我们在**clone**的时候可能就会产生一个https的关联，但为了避免反复输入账号名和密码，我们需要删除原先的关联，然后新建一个ssh密匙关联
 
+### Git的branch
+
 [Git - 分支简介](https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%AE%80%E4%BB%8B)
----》简单来说，就是
+
+[(8 封私信 / 80 条消息) 图解git，用手绘图带你理解git中分支的原理和应用 - 知乎](https://zhuanlan.zhihu.com/p/268687184)
+
+
