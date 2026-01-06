@@ -50,6 +50,8 @@
 
 **1_6**
 
-
+```text
+git remote add origin git@github.com:wangjiax9/practice.git //关联远程仓库
+```
 
  
