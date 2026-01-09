@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode_README.md/0283 Move Zeroes.md",
+                "file": "LeetCode_Hot100/0283 Move Zeroes.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,15 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d8a795aae7a109e",
+  "active": "ab0e1f8128bffe4d",
   "lastOpenFiles": [
     "STL.md",
     "LVGL入门.md",
-    "LeetCode_README.md/0283 Move Zeroes.md",
-    "LeetCode_README.md/0001 Two Sum.md",
+    "LeetCode_Hot100/0283 Move Zeroes.md",
+    "LeetCode_Hot100/0001 Two Sum.md",
     "数据结构与算法.md",
     "1.md",
-    "LeetCode_README.md",
+    "LeetCode_Hot100",
     "Git.md",
     "Ubuntu虚拟机 22.04.md",
     "Python.md",
