@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode_README.md/0283.md",
+                "file": "LeetCode_README.md/0283 Move Zeroes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0283"
+              "title": "0283 Move Zeroes"
             }
           }
         ]
@@ -182,9 +182,9 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
-    "LeetCode_README.md/0001 Two Sum.md",
-    "LeetCode_README.md/0283.md",
     "数据结构与算法.md",
+    "LeetCode_README.md/0283 Move Zeroes.md",
+    "LeetCode_README.md/0001 Two Sum.md",
     "1.md",
     "LeetCode_README.md",
     "Git.md",

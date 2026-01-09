@@ -5,11 +5,11 @@
 
 
 
-Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+Given an integer array `nums`, move all `0`'s to the end of it while maintaining the relative order of the non-zero elements.
 
 
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
+**Note** that you must do this in-place without making a copy of the array.
 
 
 
@@ -19,13 +19,12 @@ Example:
 
 ```
 
-Given nums = \[2, 7, 11, 15], target = 9,
+Input: nums = [0,1,0,3,12]
+Output:       [1,3,12,0,0]
 
 
-
-Because nums\[0] + nums\[1] = 2 + 7 = 9,
-
-return \[0, 1].
+Input: nums = [0]
+Output:       [0]
 
 ```
 
@@ -39,7 +38,11 @@ return \[0, 1].
 
 
 
-在数组中找到 2 个数之和等于给定值的数字，结果返回 2 个数字在数组中的下标。
+给定一个整数数组，把数组中的0元素都移到数组的后面并且不改变其他元素的位置
+
+
+
+
 
 
 
