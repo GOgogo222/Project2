@@ -25,8 +25,11 @@ Input: height = [1,8,6,2,5,4,8,3,7]
 Output: 49
 
 
-Input: nums = [0]
-Output:       [0]
+Explanation:The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+
+
+Input: nums = height = [1,1]
+Output:       1
 
 ```
 
@@ -40,11 +43,7 @@ Output:       [0]
 
 
 
-给定一个整数数组，把数组中的0元素都移到数组的后面并保持其他元素的位置
-
-
-
-~~注意，不可复制该数组~~
+给定一个长度为n的整数(integer)数组，
 
 
 
