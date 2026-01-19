@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法.md",
-                "mode": "preview",
+                "file": "LeetCode_Hot100/011.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据结构与算法"
+              "title": "011"
             }
           }
         ]
@@ -182,13 +182,14 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
+    "数据结构与算法.md",
+    "LeetCode_Hot100/011.md",
     "Experiments.md",
     "DIY Echo-Mate LOG.md",
     "LeetCode_Hot100/0283 Move Zeroes.md",
     "STL.md",
     "LVGL入门.md",
     "LeetCode_Hot100/0001 Two Sum.md",
-    "数据结构与算法.md",
     "1.md",
     "LeetCode_Hot100",
     "Git.md",
