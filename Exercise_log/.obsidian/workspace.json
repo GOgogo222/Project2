@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "LeetCode_Hot100/0283 Move Zeroes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab0e1f8128bffe4d",
+  "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
     "STL.md",
     "LVGL入门.md",
