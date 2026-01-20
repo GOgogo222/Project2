@@ -1,9 +1,10 @@
 # [0011.Container With Most Water](https://leetcode.cn/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-100-liked)
 
-![[Pasted image 20260120203604.jpg]]
+
+
 ## 题目
 
-![[Pasted image 20260120203604.jpg]]
+
 
 You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
 
