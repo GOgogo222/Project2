@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "011 Container With Most Water"
             }
-          },
-          {
-            "id": "1da3b7b5c21e8266",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1da3b7b5c21e8266",
+  "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
     "LeetCode_Hot100/0283 Move Zeroes.md",
     "LeetCode_Hot100/011 Container With Most Water.md",
