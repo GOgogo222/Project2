@@ -10,6 +10,10 @@ Given an integer array `nums`, find the subarray with the largest sum, and re
 
 
 
+A **subarray** is a contiguous **non-empty** sequence of elements within an array.
+
+
+
 Example:
 
 
@@ -36,14 +40,16 @@ Explanation:The subarray [5,4,-1,7,8] has the largest sum 23.
 
 
 
-
-
-
 ## 题目大意
 
 
 
-给定一个整数数组，找到带有最大和的zi'shu'zu
+给定一个整数数组，找到带有最大和的子数组，并返回这个值
+
+
+
+子数组是一个数组中连续的非空元素序列
+
 
 ## 解题思路
 
