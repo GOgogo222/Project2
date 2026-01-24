@@ -14,6 +14,10 @@ A **subarray** is a contiguous **non-empty** sequence of elements within an 
 
 
 
+**Follow up:** If you have figured out the `O(n)` solution, try coding another solution using the **divide and conquer** approach, which is more subtle.
+
+
+
 Example:
 
 
@@ -55,8 +59,6 @@ Explanation:The subarray [5,4,-1,7,8] has the largest sum 23.
 
 
 
-最大的容量=最大的面积
+若当前指针所指元素之前的和小于0，则丢弃**当前元素之前**的序列
 
 
-
-左右两个双指针，不断比较两元素所代表的高度，移动较小的那一个（左指针右移，右指针左移），以寻求最大面积
