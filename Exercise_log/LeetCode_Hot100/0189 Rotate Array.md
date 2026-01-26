@@ -22,7 +22,6 @@ Example:
 
 
 ```
-
 Input: nums = [1,2,3,4,5,6,7], k = 3
 Output: [5,6,7,1,2,3,4]
 Explanation:rotate 1 steps to the right: [7,1,2,3,4,5,6]
@@ -50,4 +49,9 @@ rotate 2 steps to the right: [3,99,-1,-100]
 
 
 
-若当前指针所指元素之前的和小于0，则丢弃**当前元素之前**的序列
+公式：newArr[(i+k)%n] = nums[i];
+
+
+
+
+

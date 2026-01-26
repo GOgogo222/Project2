@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode_Hot100/LeetCode Hot 100.md",
+                "file": "LeetCode_Hot100/0189 Rotate Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode Hot 100"
+              "title": "0189 Rotate Array"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
-    "LeetCode_Hot100/0053 Maximum Subarray.md",
     "LeetCode_Hot100/LeetCode Hot 100.md",
+    "LeetCode_Hot100/0053 Maximum Subarray.md",
     "LeetCode_Hot100/0189 Rotate Array.md",
     "STL.md",
     "LeetCode_Hot100/0001 Two Sum.md",
