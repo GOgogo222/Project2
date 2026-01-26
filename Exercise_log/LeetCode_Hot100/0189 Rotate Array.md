@@ -16,21 +16,17 @@ Example:
 
 ```
 
-Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
-Output: 6
-Explanation:The subarray [4,-1,2,1] has the largest sum 6.
+Input: nums = [1,2,3,4,5,6,7], k = 3
+Output: [5,6,7,1,2,3,4]
+Explanation:rotate 1 steps to the right: [7,1,2,3,4,5,6]
+rotate 2 steps to the right: [6,7,1,2,3,4,5]
+rotate 3 steps to the right: [5,6,7,1,2,3,4]
 
 
-
-Input: nums = [1]
-Output: 1
-Explanation:The subarray [1] has the largest sum 1.
-
-
-
-Input: nums = [5,4,-1,7,8]
-Output: 23
-Explanation:The subarray [5,4,-1,7,8] has the largest sum 23.
+Input: nums = [-1,-100,3,99], k = 2
+Output: [3,99,-1,-100]
+Explanation:rotate 1 steps to the right: [99,-1,-100,3]
+rotate 2 steps to the right: [3,99,-1,-100]
 ```
 
 
