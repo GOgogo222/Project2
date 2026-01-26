@@ -10,6 +10,13 @@ Given an integer array `nums`, rotate the array to the right by `k` steps, wh
 
 
 
+**Follow up:**
+
+- Try to come up with as many solutions as you can. There are at least **three** different ways to solve this problem.
+- Could you do it in-place with `O(1)` extra space?
+
+
+
 Example:
 
 
@@ -36,11 +43,7 @@ rotate 2 steps to the right: [3,99,-1,-100]
 
 
 
-给定一个整数数组，找到带有最大和的子数组，并返回这个值
-
-
-
-子数组是一个数组中连续的非空元素序列
+旋转数组，
 
 
 ## 解题思路
