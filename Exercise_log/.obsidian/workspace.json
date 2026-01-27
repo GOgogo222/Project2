@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode_Hot100/0053 Maximum Subarray.md",
+                "file": "LeetCode_Hot100/0238 Product of Array Except Self.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0053 Maximum Subarray"
+              "title": "0238 Product of Array Except Self"
             }
           }
         ]
@@ -183,8 +183,9 @@
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
     "LeetCode_Hot100/0189 Rotate Array.md",
-    "LeetCode_Hot100/LeetCode Hot 100.md",
+    "LeetCode_Hot100/0238 Product of Array Except Self.md",
     "LeetCode_Hot100/0053 Maximum Subarray.md",
+    "LeetCode_Hot100/LeetCode Hot 100.md",
     "STL.md",
     "LeetCode_Hot100/0001 Two Sum.md",
     "LeetCode_Hot100/0056 Merge Intervals.md",
