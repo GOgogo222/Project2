@@ -45,7 +45,7 @@ Explanation:
 
 
 
-给定一个整数数组nums，返回一个新的数组newarr：new[i]
+给定一个整数数组nums，返回一个新的数组newarr：newarr[i] 等于除 nums[i] 以外所有其他元素之和
 
 
 
