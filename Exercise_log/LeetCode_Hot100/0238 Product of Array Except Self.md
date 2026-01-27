@@ -45,7 +45,7 @@ Explanation:
 
 
 
-
+给定一个整数数组nums，返回一个新的数组newarr：new[i]
 
 
 
