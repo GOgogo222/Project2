@@ -20,15 +20,33 @@ You must write an algorithm that runs in `O(n)` time and without using the div
 
 
 
+**Follow up:** Can you solve the problem in `O(1)` extra space complexity? (The output array **does not** count as extra space for space complexity analysis.)
+
+
+
 Example:
 
 
 
 ~~~
+Input: nums = [1,2,3,4]
+Output: [24,12,8,6]
+Explanation:
 
 
+Input: nums = [-1,1,0,-3,3]
+Output: [0,0,9,0,0]
+Explanation:
 ~~~
 
 
 
-# 
+# 题目大意
+
+
+
+
+
+
+
+# 解题思路
