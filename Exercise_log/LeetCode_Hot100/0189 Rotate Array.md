@@ -1,4 +1,4 @@
-# [0189 Rotate Array](https://leetcode.cn/problems/rotate-array/description/?envType=study-plan-v2&envId=top-100-liked)
+# [189 Rotate Array](https://leetcode.cn/problems/rotate-array/description/?envType=study-plan-v2&envId=top-100-liked)
 
 
 
