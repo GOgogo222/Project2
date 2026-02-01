@@ -17,15 +17,19 @@ Example:
 
 
 ```
-Input: 
-Output: 
+Input: s = "abciiidef", k = 3
+Output: 3
 
 
-Explanation:
+Explanation:The substring "iii" contains 3 vowel letters.
 
 
-Input: 
-Output: 
+Input: s = "aeiou", k = 2
+Output: 2
+
+
+
+Explanation:Any substring of length 2 contains 2 vowels.
 ```
 
 
@@ -38,7 +42,7 @@ Output:
 
 
 
---->text
+给定一个字符串s和整数k，返回字符串 s 中长度为 k 的单个子字符串中可能包含的**最大元音字母数**。
 
 
 
