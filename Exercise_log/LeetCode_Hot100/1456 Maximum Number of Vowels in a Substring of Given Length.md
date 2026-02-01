@@ -50,6 +50,11 @@ Explanation:Any substring of length 2 contains 2 vowels.
 
 
 
---->text
+字符串 abci，假如我们已经计算出了子串 abc 的元音个数，那么从子串 abc 到子串 bci，只需要考虑移除（离开窗口）的字母 a 是不是元音，以及添加（进入窗口）的字母 i 是不是元音即可，因为中间的字母 b 和 c 都在这两个子串中。
+
+作者：灵茶山艾府
+链接：https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/solutions/2809359/tao-lu-jiao-ni-jie-jue-ding-chang-hua-ch-fzfo/
+来源：力扣（LeetCode）
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
