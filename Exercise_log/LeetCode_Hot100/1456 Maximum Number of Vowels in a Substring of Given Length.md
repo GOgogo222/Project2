@@ -42,7 +42,11 @@ Explanation:Any substring of length 2 contains 2 vowels.
 
 
 
-给定一个字符串s和整数k，返回字符串 s 中长度为 k 的单个子字符串中可能包含的**最大元音字母数**。
+~~给定一个字符串s和整数k，返回字符串 s 中长度为 k 的单个子字符串中可能包含的**最大元音字母数**。~~
+
+
+
+我们要计算所有长度**恰好**为 k 的子串中，最多可以包含多少个元音字母。
 
 
 
@@ -54,7 +58,5 @@ Explanation:Any substring of length 2 contains 2 vowels.
 
 作者：灵茶山艾府
 链接：https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/solutions/2809359/tao-lu-jiao-ni-jie-jue-ding-chang-hua-ch-fzfo/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
