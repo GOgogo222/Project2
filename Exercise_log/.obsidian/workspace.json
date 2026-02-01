@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode_Hot100/1456 Maximum Number of Vowels in a Substring of Given Length.md",
+                "file": "LeetCode_Hot100/LeetCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1456 Maximum Number of Vowels in a Substring of Given Length"
+              "title": "LeetCode"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
-    "LeetCode_Hot100/0000 Templete.md",
     "LeetCode_Hot100/1456 Maximum Number of Vowels in a Substring of Given Length.md",
+    "LeetCode_Hot100/0000 Templete.md",
     "LeetCode_Hot100/LeetCode.md",
     "LeetCode_Hot100/0035 Search Insert Position.md",
     "LeetCode_Hot100/(0034 Find First and Last Position of Element in Sorted Array.md",
