@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/0643 Maximum Average Subarray I.md",
+                "file": "LeetCode/LeetCode_Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0643 Maximum Average Subarray I"
+              "title": "LeetCode_Daily"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
-    "LeetCode/0283 Move Zeroes.md",
     "LeetCode/0643 Maximum Average Subarray I.md",
+    "LeetCode/0283 Move Zeroes.md",
     "LeetCode/0000 Templete.md",
     "LeetCode/LeetCode_Daily.md",
     "LeetCode/1456 Maximum Number of Vowels in a Substring of Given Length.md",

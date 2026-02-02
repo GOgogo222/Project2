@@ -36,3 +36,24 @@
 
 
 
+# 2_2
+
+[2090. K Radius Subarray Averages](https://leetcode.cn/problems/k-radius-subarray-averages/)
+
+
+
+[2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
+
+
+
+[1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
+
+
+
+
+
+
+
+
+
+
