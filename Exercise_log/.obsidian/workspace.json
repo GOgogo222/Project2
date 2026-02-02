@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/2090 K Radius Subarray Averages.md",
+                "file": "LeetCode/(2841 Maximum Sum of Almost Unique Subarray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2090 K Radius Subarray Averages"
+              "title": "(2841 Maximum Sum of Almost Unique Subarray"
             }
           }
         ]
@@ -183,6 +183,7 @@
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
     "LeetCode/0000 Templete.md",
+    "LeetCode/(2841 Maximum Sum of Almost Unique Subarray.md",
     "LeetCode/2090 K Radius Subarray Averages.md",
     "LeetCode/LeetCode_Daily.md",
     "LeetCode/0643 Maximum Average Subarray I.md",
@@ -214,7 +215,6 @@
     "Attachments/Pasted image 20251005105126.png",
     "Attachments/串口参数及时序.png",
     "Attachments/0ed783d2835af7449fd88715fde12fe9.jpg",
-    "Python 1.md",
     "Attachments/Pasted image 20251130213407.png",
     "Attachments/Pasted image 20251130213310.png",
     "Attachments/Pasted image 20251130213125.png",
