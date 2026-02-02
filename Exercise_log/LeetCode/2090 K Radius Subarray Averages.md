@@ -65,7 +65,11 @@ Explanation:- The sum of the subarray centered at index 0 with radius 0 is: 1000
 
 
 
-**更新**：$avgs[i−k]=⌊s/2k+1⌋$，
+**更新**：$avgs[i−k]=⌊s/2k+1⌋$，注意记录的位置i-1
+
+
+
+**出**：$nums[i−2k]$，下标为i-2k的元素离开窗口
 
 
 
