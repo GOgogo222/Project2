@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/0238. Product of Array Except Self.md",
+                "file": "LeetCode/(2841.Maximum Sum of Almost Unique Subarray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0238. Product of Array Except Self"
+              "title": "(2841.Maximum Sum of Almost Unique Subarray"
             }
           }
         ]
@@ -180,24 +180,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab0e1f8128bffe4d",
+  "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
+    "LeetCode/(2461. Maximum Sum of Distinct Subarrays With Length K.md",
+    "LeetCode/(1423. Maximum Points You Can Obtain from Cards.md",
+    "LeetCode/(0034. Find First and Last Position of Element in Sorted Array.md",
+    "LeetCode/(2841.Maximum Sum of Almost Unique Subarray.md",
+    "LeetCode/0000. Templete.md",
+    "LeetCode/0238. Product of Array Except Self.md",
     "LeetCode/LeetCode_Daily.md",
     "LeetCode/(1423. Maximum Points You Can Obtain from Cards",
-    "LeetCode/(2461. Maximum Sum of Distinct Subarrays With Length K.md",
-    "LeetCode/(0034. Find First and Last Position of Element in Sorted Array.md",
     "LeetCode/2090. K Radius Subarray Averages.md",
     "LeetCode/1456. Maximum Number of Vowels in a Substring of Given Length.md",
     "LeetCode/0643. Maximum Average Subarray I.md",
     "LeetCode/0283. Move Zeroes.md",
-    "LeetCode/0238. Product of Array Except Self.md",
     "LeetCode/0189. otate Array.md",
     "LeetCode/0053. Maximum Subarray.md",
     "LeetCode/0035. Search Insert Position.md",
     "LeetCode/0011. Container With Most Water.md",
     "LeetCode/0001. Two Sum.md",
-    "LeetCode/0000. Templete.md",
-    "LeetCode/(2841.Maximum Sum of Almost Unique Subarray.md",
     "数据结构与算法.md",
     "DIY Echo-Mate LOG.md",
     "Python.md",
