@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STL.md",
+                "file": "LeetCode/0003. Longest Substring Without Repeating Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STL"
+              "title": "0003. Longest Substring Without Repeating Characters"
             }
           }
         ]
@@ -182,12 +182,15 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
+    "LeetCode/0000. Templete.md",
+    "LeetCode/0001. Two Sum.md",
+    "LeetCode/0003. Longest Substring Without Repeating Characters.md",
+    "STL.md",
     "数据结构与算法.md",
     "LeetCode/(2841.Maximum Sum of Almost Unique Subarray.md",
     "LeetCode/(2461. Maximum Sum of Distinct Subarrays With Length K.md",
     "LeetCode/(1423. Maximum Points You Can Obtain from Cards.md",
     "LeetCode/(0034. Find First and Last Position of Element in Sorted Array.md",
-    "LeetCode/0000. Templete.md",
     "LeetCode/0238. Product of Array Except Self.md",
     "LeetCode/LeetCode_Daily.md",
     "LeetCode/(1423. Maximum Points You Can Obtain from Cards",
@@ -199,19 +202,16 @@
     "LeetCode/0053. Maximum Subarray.md",
     "LeetCode/0035. Search Insert Position.md",
     "LeetCode/0011. Container With Most Water.md",
-    "LeetCode/0001. Two Sum.md",
     "DIY Echo-Mate LOG.md",
     "Python.md",
     "QT入门.md",
     "LVGL入门.md",
-    "STL.md",
     "LeetCode_Hot100/0056 Merge Intervals.md",
     "Attachments/Pasted image 20260120203604.jpg",
     "Attachments/Pasted image 20260120203545.jpg",
     "Experiments.md",
     "1.md",
     "LeetCode",
-    "Git.md",
     "Attachments/Pasted image 20251130193805.png",
     "Attachments/Pasted image 20251005105126.png",
     "Attachments/串口参数及时序.png",
