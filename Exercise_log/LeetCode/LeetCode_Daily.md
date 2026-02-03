@@ -51,3 +51,8 @@
 
 
 [1423. Maximum Points You Can Obtain from Cards](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/)
+
+
+
+# 2_3
+
