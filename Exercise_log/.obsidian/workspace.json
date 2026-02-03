@@ -11,12 +11,14 @@
             "id": "3d8a795aae7a109e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/PWM&PWM模块&信号发生器.png"
+                "file": "LeetCode/LeetCode_Daily.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "PWM&PWM模块&信号发生器"
+              "icon": "lucide-file",
+              "title": "LeetCode_Daily"
             }
           }
         ]
@@ -180,8 +182,9 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
-    "Attachments/句柄是什么.png",
     "LeetCode/0003. Longest Substring Without Repeating Characters.md",
+    "Attachments/PWM&PWM模块&信号发生器.png",
+    "Attachments/句柄是什么.png",
     "LeetCode/0000. Templete.md",
     "LeetCode/0001. Two Sum.md",
     "STL.md",
@@ -216,8 +219,6 @@
     "Attachments/0ed783d2835af7449fd88715fde12fe9.jpg",
     "Attachments/Pasted image 20251130213407.png",
     "Attachments/Pasted image 20251130213310.png",
-    "Attachments/Pasted image 20251130213125.png",
-    "Attachments/Pasted image 20251130212832.png",
     "[Project-2/Exercise_log/Attachments",
     "[Project-2/Exercise_log",
     "[Project-2",
