@@ -754,7 +754,7 @@ m.erase(m.begin(),m.end());
 .find(3) ---》查找key值为3的vaule，并返回一个迭代器（无论查找成功还是失败）
 
 **统计**
-这是set容器和map容器的**特色**，显然再map（而不是multimap）中返回值的结果只能是1或0
+这是set容器和map容器的**特色**，显然在map（而不是multimap）中返回值的结果只能是1或0
 .count(elem); ---》找key值为elem的元素
 
 **69**
