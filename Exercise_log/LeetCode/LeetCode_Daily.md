@@ -76,3 +76,7 @@
 
 # 2_5
 
+[904. Fruit Into Baskets](https://leetcode.cn/problems/fruit-into-baskets/)
+
+
+
