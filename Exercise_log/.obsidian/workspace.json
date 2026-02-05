@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/3795. Minimum Subarray Length With Distinct Sum At Least K.md",
+                "file": "LeetCode/LeetCode_Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3795. Minimum Subarray Length With Distinct Sum At Least K"
+              "title": "LeetCode_Daily"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
-    "LeetCode/0000. Templete.md",
     "LeetCode/3795. Minimum Subarray Length With Distinct Sum At Least K.md",
+    "LeetCode/0000. Templete.md",
     "LeetCode/LeetCode_Daily.md",
     "STL.md",
     "LeetCode/(0076. Minimum Window Substring.md",
