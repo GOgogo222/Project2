@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/LeetCode_Daily.md",
+                "file": "LeetCode/(2904. Shortest and Lexicographically Smallest Beautiful String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode_Daily"
+              "title": "(2904. Shortest and Lexicographically Smallest Beautiful String"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
-    "LeetCode/3795. Minimum Subarray Length With Distinct Sum At Least K.md",
     "LeetCode/0000. Templete.md",
+    "LeetCode/(2904. Shortest and Lexicographically Smallest Beautiful String.md",
     "LeetCode/LeetCode_Daily.md",
+    "LeetCode/3795. Minimum Subarray Length With Distinct Sum At Least K.md",
     "STL.md",
     "LeetCode/(0076. Minimum Window Substring.md",
     "LeetCode/0003. Longest Substring Without Repeating Characters.md",
@@ -210,7 +211,6 @@
     "Python.md",
     "QT入门.md",
     "LVGL入门.md",
-    "LeetCode_Hot100/0056 Merge Intervals.md",
     "Attachments/Pasted image 20260120203604.jpg",
     "Attachments/Pasted image 20260120203545.jpg",
     "LeetCode",
