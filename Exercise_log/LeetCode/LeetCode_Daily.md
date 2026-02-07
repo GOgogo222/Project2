@@ -114,3 +114,7 @@
 
 # 2_7
 
+[3258. Count Substrings That Satisfy K-Constraint I](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-i/)
+
+
+
