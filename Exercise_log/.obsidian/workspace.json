@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/2962. Count Subarrays Where Max Element Appears at Least K Times.md",
+                "file": "LeetCode/LeetCode_Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2962. Count Subarrays Where Max Element Appears at Least K Times"
-            }
-          },
-          {
-            "id": "9f4d21dc788d71a2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "title": "LeetCode_Daily"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,13 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f4d21dc788d71a2",
+  "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
-    "LeetCode/0000. Templete.md",
+    "LeetCode/3795. Minimum Subarray Length With Distinct Sum At Least K.md",
     "LeetCode/2962. Count Subarrays Where Max Element Appears at Least K Times.md",
+    "LeetCode/0000. Templete.md",
     "LeetCode/LeetCode_Daily.md",
     "LeetCode/(2904. Shortest and Lexicographically Smallest Beautiful String.md",
-    "LeetCode/3795. Minimum Subarray Length With Distinct Sum At Least K.md",
     "STL.md",
     "LeetCode/(0076. Minimum Window Substring.md",
     "LeetCode/0003. Longest Substring Without Repeating Characters.md",

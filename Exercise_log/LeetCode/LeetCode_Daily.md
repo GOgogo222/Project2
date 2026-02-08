@@ -126,3 +126,13 @@
 
 
 
+# 2_8
+
+[2799. Count Complete Subarrays in an Array](https://leetcode.cn/problems/count-complete-subarrays-in-an-array/)
+
+
+
+[3325. Count Substrings With K-Frequency Characters I](https://leetcode.cn/problems/count-substrings-with-k-frequency-characters-i/)
+
+
+
