@@ -55,7 +55,7 @@
 
 ![STM32系统架构图](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/STM32%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%9B%BE.jpg)
 
-### STM32系统架构图
+ **STM32系统架构图**
 
 
 
@@ -148,7 +148,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 - 初识USART和DMA
 
-## November 1th
+# November 1th
 
 
 | 层级        | 示例               | 估计数量       | 概率（约）      | 概率换算      |
@@ -196,7 +196,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 **“软件触发和循环模式不可同时使用，因其速度快的特性，软件触发比较适合从存储器到存储器的转运”**
 
 
-## November 2th
+# November 2th
 
 了解了各个通信接口的特性，USART,I2C,SPI,CAN和USB
 - **引脚
@@ -225,42 +225,42 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 - **全双工**：两根线，两个都能发都能接 
 - **半双工**：一根线，两个都能发
 
-## November 4th
+# November 4th
 
 **完整过了各章的概念部分，仍需加强，实践
 
-## November 8th
+# November 8th
 
 - 复习了GPIO架构图
 - 复习了TIM定时器架构图
 - 熟悉了CubeMX的基本操作
 
-## November 9th
+# November 9th
 
 - 单片机核心板PCB：学会了元器件的放置
 
-## November 10th
+# November 10th
 
 - 回看**TIM定时器**的输入捕获/输出比较部分
 - 回看ADC工作原理
 - 实现LED呼吸灯
 
-## November 12th
+# November 12th
 
 - 编码器接口相当于是为实际单元提供了一个时钟
 
-## November 13th
+# November 13th
 
 - 实现编码器测速
 - 实现输入捕获测频率&占空比
 
-## November 17th
+# November 17th
 
 - 重新理解时钟：时钟比较好理解，时钟是单片机的脉搏，时钟频率决定了单片机运行一个指令周期的时。。就好像我们做广播体操的时候 广播上喊的节拍1234 2234 3234。。。。然后我们全部的同学就按照这个节奏进行一个个动作，节拍越快我们动作越快，节拍越慢我们动作的越慢。
 - 迟滞比较：设置两个阈值，一个下阈值，一个上阈值，用于输出抖动的问题，常见的有施密特触发器等
 - **DMA转运三条件：** ①计数器大于0；②触发源有触发信号（若为软件触发可忽略此条件）；③DMA使能
 
-## November 19th
+# November 19th
 
 - **STM32硬件自动化：** "各个外设相互连接，互相交织，不再是传统的一个CPU，单独控制多个独立的外设"
 - **USART框图部分：** 在程序上数据寄存器只表现为一个：数据寄存器DR；在硬件上表现为两个：用于"T"的发送数据寄存器，用于接受"R"的接受数据寄存器
@@ -275,7 +275,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 **“一个引脚只能有一个输出，但可以有多个输入，所以输入脚，外设和GPIO都可以使用！！！”**
 
 
-## November 20th
+# November 20th
 
 - **串口使用printf和sprinrf:** 
 - 	printf("Num=%d\r\n",666);(需要重新定义底层的fputc函数)
@@ -306,7 +306,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **总结：** 想象主机或从机在控制SDA/SCL的过程就是不停在“拉杆子”，这个杆子由一个轻质弹簧连接，你不拉他他就往上弹，但是一旦被拉就肯定被拉“下来”了，只不过是谁来拉，怎么拉，拉多久的问题
 
-## November 21th
+# November 21th
 
 **************************
 
@@ -350,7 +350,7 @@ y(yaw)偏航角
 
 *****************************
 
-## November 22th
+# November 22th
 
 ********************
 
@@ -362,7 +362,7 @@ Alt+I: 原理图转PCB
 
 ********************
 
-## November 23th
+# November 23th
 
 ***************************
 
@@ -374,7 +374,7 @@ Alt+I: 原理图转PCB
 
 *************************
 
-## November 25th
+# November 25th
 
 **SPI通信+W25Qxx系列芯片**
 
@@ -435,12 +435,12 @@ Alt+I: 原理图转PCB
 
 读取ID号来验证SPI是否可行的流程就像是收发验证码
 
-## November 26th
+# November 26th
 
 今天看了不少项目，选了一个Liunx相关的打算做下去
 https://www.bilibili.com/video/BV1685qztEec?t=10.6&p=11
 
-## December 1th
+# December 1th
 
 开漏输出和推挽输出
 · 推挽输出：强力驱动，自己就能输出明确的高/低电平。
@@ -449,7 +449,7 @@ https://www.bilibili.com/video/BV1685qztEec?t=10.6&p=11
 
 I2C 7/10 位寻址：在I2C时序的开头，是寻址+读写位，它们决定主机要通信的从机，读/写，共一个字节（7 位寻址，1 位读写位），而 10 位寻址就是在寻址位的前五位若有特定的指令 11110 ，那么前两个字节作为寻址位（指令 5 位+寻址位 10 位+读写位 1 位=16 位共两个字节）、
 
-## December 3th
+# December 3th
 
 W25Qxx是一种使用SPI串行通信的存储芯片，常用于数据存储，字库存储（这个感觉很常用），固件程序存储（这个很厉害）
 
@@ -474,7 +474,7 @@ W25Qxx是一种使用SPI串行通信的存储芯片，常用于数据存储，�
 ***********************************
 
 ## December
-## 收获了什么
+### 收获了什么
 
 总结两个月的学习路程，无非就是把课程反反复复地看，代码一遍遍地敲，这样坚持两个月，我相信没有技术是搞不懂的。
 
