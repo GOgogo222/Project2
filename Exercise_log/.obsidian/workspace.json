@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2962. Count Subarrays Where Max Element Appears at Least K Times"
             }
+          },
+          {
+            "id": "9f4d21dc788d71a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d8a795aae7a109e",
+  "active": "9f4d21dc788d71a2",
   "lastOpenFiles": [
     "LeetCode/0000. Templete.md",
     "LeetCode/2962. Count Subarrays Where Max Element Appears at Least K Times.md",
