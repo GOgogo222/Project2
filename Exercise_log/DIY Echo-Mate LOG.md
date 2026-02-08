@@ -1,11 +1,11 @@
 
-## 12_20
+# 12_20
 
 已经实现桌面机器人的仿真
 
 瑞芯开发工具 v2.96  [RKDevTool | Radxa Docs](https://docs.radxa.com/zero/zero3/low-level-dev/rkdevtool)
 
-## 1_2
+# 1_2
 
 git submodule update --init --recursive **无响应**
 
@@ -15,7 +15,7 @@ git submodule update --init --recursive **无响应**
 
 仿真 ---》成功
 
-### 使用MobaXterm
+### 使用MobaXterm:
 
 [windows11 如何关闭防火墙_win11关闭防火墙和杀毒软件-CSDN博客](https://blog.csdn.net/undoshutdown/article/details/130505400)
 
@@ -25,7 +25,7 @@ git submodule update --init --recursive **无响应**
 
 **无法连接NDIS**
 
-### 使用瑞芯微开发工具
+### 使用瑞芯微开发工具:
 
 [(8 封私信 / 80 条消息) 瑞芯微RK3588开发板的固件烧录完整教程（简单好上手） - 知乎](https://zhuanlan.zhihu.com/p/569120619)
 
@@ -42,7 +42,7 @@ download.bin
 
 MobaXterm ssh 密匙注册成功，账号登陆成功，密码：T *********   @
 
-### 申请API Key
+### 申请API Key:
 
 [申请高德地图API的Key并加以接口调用的方法_高德地图key-CSDN博客](https://blog.csdn.net/zhebushibiaoshifu/article/details/139373736)
 
