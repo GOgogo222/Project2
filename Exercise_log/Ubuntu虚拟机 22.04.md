@@ -1,7 +1,7 @@
 
-**1_2**
+# 1_2
 
-## **安装**
+### 安装
 
 [VMware中安装配置Ubuntu（2024最新版 超详细）_vmware安装ubuntu-CSDN博客](https://blog.csdn.net/air_729/article/details/143105854)
 
@@ -40,7 +40,7 @@ edit-visual network editor
 
 最后成功连上外网
 
-**1_5**
+# 1_5
 
 Ctrl+' " ' = @
 
