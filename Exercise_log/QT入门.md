@@ -1,5 +1,5 @@
 
-## 12_20
+# 12_20
 
 ## QT从入门到实战完整版|传智教育
 
@@ -10,7 +10,7 @@
 Qt教程：
 https://www.bilibili.com/video/BV1g4411H78N?t=1072.5&p=4
 
-## 1_04 创建第一个Qt程序
+# 1_4
 
 **主要熟悉了一个Qt程序的创建过程**
 
@@ -23,7 +23,7 @@ https://www.bilibili.com/video/BV1g4411H78N?t=1072.5&p=4
     
 - **结论：** `QWidget` 才是父类，`MyPro01` 是子类。
 
-## 1_05 
+# 1_5 
 
 Qt模块的认识。。。(Qt Modules)
 
@@ -39,7 +39,7 @@ Qt模块的认识。。。(Qt Modules)
 “相当于我自己写了一个类（MyPro01），继承了QWidget的窗口类”
 
 **注意，类名和变量名要控制大小写**
-## Qt Designer
+### Qt Designer
 
 https://www.bilibili.com/video/BV12B4y1h7QX?t=682.2
 
@@ -51,7 +51,7 @@ https://www.bilibili.com/video/BV12B4y1h7QX?t=682.2
 
 **Ctrl+R**：预览效果
 
-## QT快速入门 | 最简单最简洁的QT入门教程
+### QT快速入门 | 最简单最简洁的QT入门教程
 
 https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 
@@ -61,7 +61,7 @@ https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 
 **右键标签（lable）**->改变格式文本，这里可以非常灵活地设计文本的内容
 
-## 4
+### 4
 
 信号（点击某个按钮）与槽（做出响应，执行槽函数）
 
@@ -71,7 +71,7 @@ https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 
 输出调试信息：项目属性->连接器->选择控制台
 
-## 12_21
+# 12_21
 
 ### 4
 
@@ -80,7 +80,7 @@ https://www.bilibili.com/video/BV1N34y1H7x7?t=614.9&p=3
 *暂时把Qt放一放，我的Qt有点坏了。。。*
 
 
-## 12_22
+# 12_22
 
 **关于构建和部署**
 

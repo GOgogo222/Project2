@@ -7,10 +7,10 @@
 
 ![image](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/da428a4a864740dfb451bff2ef502ebc.jpg)
 
-## October 7th
+# October 7th
 **救命，把CubeMX更新了一下，旧工程全消失了，一定要引以为戒**
 
-## October 8th
+# October 8th
 
 ![定时器内部结构](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/%E5%AE%9A%E6%97%B6%E5%99%A8%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84.png)
 **定时器内部结构**
@@ -25,7 +25,7 @@
 **系统时钟内部结构**
 
 
-## October 13th
+# October 13th
 
 ![PWM&PWM模块&信号发生器](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/PWM%26PWM%E6%A8%A1%E5%9D%97%26%E4%BF%A1%E5%8F%B7%E5%8F%91%E7%94%9F%E5%99%A8.png)
 
@@ -59,13 +59,13 @@
 
 
 
-## October 16th
+# October 16th
 
 **今天学习了串口通信和adc转换器，很轻松的感觉**
 
 
 
-## October 17th
+# October 17th
 
 **今天开始学习 *江协科技***  
 
@@ -84,7 +84,7 @@
 
 ### 中断函数
 
-## October 18th
+# October 18th
 
 **宏定义 #define和typedef->专门针对数据类型的改名**
 
@@ -96,32 +96,32 @@
 
 **强制类型转换的_星号**
 
-## October 19th
+# October 19th
 
 https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **关于优先级的分组问题**
 
-## October 21th
+# October 21th
 
 ![关于频率](https://github.com/GOgogo222/Project-2/blob/main/Exercise_log/Attachments/%E5%85%B3%E4%BA%8E%E9%A2%91%E7%8E%87.png)
 
 **总线的频率问题**
 
 
-## October 24th
+# October 24th
 
 - 学会了如何使用OLED显示屏
 - 学会了用光敏传感器加蜂鸣器
 - 连接了旋钮编码器等基本电路
 
-## October 25th
+# October 25th
 
 - 了解了EXIT外设和中断系统的基本结构
 - 实现了RCC,GPIO,AFIO,EXTI和NVIC的初始化配置
 - （注：中断函数要在Start文件中找,判断标志位+清除标志位，类似于**new**的用法）
 
-## October 26th
+# October 26th
 
 - 实现了旋转编码器计次 
 - BUG: Num = Encoder();   // 所以显示器一直为0000 
@@ -130,7 +130,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **PWM基本结构**
 
-## October 28th
+# October 28th
 
 ### 今天主要学习内容为ADC
 
@@ -144,7 +144,7 @@ https://chat.deepseek.com/share/u0kl5gkivour06bfvs
 
 **ADC外围电路**
 
-## October 29th
+# October 29th
 
 - 初识USART和DMA
 
