@@ -157,3 +157,7 @@
 [3217. Delete Nodes From Linked List Present in Array](https://leetcode.cn/problems/delete-nodes-from-linked-list-present-in-array/)
 
 
+[83. Remove Duplicates from Sorted List](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)
+
+
+
