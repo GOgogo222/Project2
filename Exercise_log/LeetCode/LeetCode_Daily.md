@@ -181,3 +181,19 @@
 
 # 2_11
 
+[24. Swap Nodes in Pairs](https://leetcode.cn/problems/swap-nodes-in-pairs/)
+
+
+
+[25. Reverse Nodes in k-Group](https://leetcode.cn/problems/reverse-nodes-in-k-group/)
+
+
+
+[206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)
+
+
+
+[92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/)
+
+
+

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/0092. Reverse Linked List II.md",
+                "file": "LeetCode/LeetCode_Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0092. Reverse Linked List II"
+              "title": "LeetCode_Daily"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
-    "LeetCode/0053. Maximum Subarray.md",
     "LeetCode/0092. Reverse Linked List II.md",
+    "LeetCode/0053. Maximum Subarray.md",
     "Attachments/Pasted image 20260211140701.png",
     "LeetCode/0000. Templete.md",
     "LeetCode/0206. Reverse Linked List.md",
