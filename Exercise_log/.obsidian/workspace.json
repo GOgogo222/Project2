@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/0206. Reverse Linked List.md",
+                "file": "LeetCode/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0206. Reverse Linked List"
+              "title": "未命名"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
+    "LeetCode/0206. Reverse Linked List.md",
+    "LeetCode/未命名.md",
     "LeetCode/0189. otate Array.md",
     "LeetCode/0000. Templete.md",
-    "LeetCode/0206. Reverse Linked List.md",
     "LeetCode/LeetCode_Daily.md",
     "LeetCode/2487. Remove Nodes From Linked List.md",
     "LeetCode/0817. Linked List Components.md",
@@ -209,7 +210,6 @@
     "Attachments/句柄是什么.png",
     "LeetCode/0001. Two Sum.md",
     "LeetCode/(2841.Maximum Sum of Almost Unique Subarray.md",
-    "LeetCode/(2461. Maximum Sum of Distinct Subarrays With Length K.md",
     "LeetCode/(1423. Maximum Points You Can Obtain from Cards",
     "Attachments/Pasted image 20260120203604.jpg",
     "Attachments/Pasted image 20260120203545.jpg",
