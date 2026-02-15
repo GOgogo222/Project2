@@ -213,3 +213,7 @@
 
 # 2_15
 
+[2130. Maximum Twin Sum of a Linked List](https://leetcode.cn/problems/maximum-twin-sum-of-a-linked-list/)
+
+
+
