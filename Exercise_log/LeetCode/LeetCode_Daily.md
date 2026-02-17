@@ -228,3 +228,11 @@
 # 2_17
 
 
+[328. 奇偶链表](https://leetcode.cn/problems/odd-even-linked-list/)
+
+
+
+[86. 分隔链表](https://leetcode.cn/problems/partition-list/)
+
+
+
