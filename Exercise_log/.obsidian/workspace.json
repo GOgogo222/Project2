@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/0457. Circular Array Loop.md",
+                "file": "LeetCode/LeetCode_Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0457. Circular Array Loop"
+              "title": "LeetCode_Daily"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
+    "LeetCode/(0457. Circular Array Loop.md",
     "LeetCode/0000. Templete.md",
-    "LeetCode/0457. Circular Array Loop.md",
     "LeetCode/0141. Linked List Cycle.md",
     "LeetCode/LeetCode_Daily.md",
     "LeetCode/0143. Reorder List.md",
