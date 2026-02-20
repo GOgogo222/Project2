@@ -265,3 +265,7 @@ Add Two Numbers ---> 已解决
 
 
 
+[2816. Double a Number Represented as a Linked List](https://leetcode.cn/problems/double-a-number-represented-as-a-linked-list/)
+
+
+
