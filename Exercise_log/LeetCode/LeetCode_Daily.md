@@ -291,3 +291,7 @@ Add Two Numbers ---> 已解决
 
 
 
+[872. Leaf-Similar Trees](https://leetcode.cn/problems/leaf-similar-trees/)
+
+
+
