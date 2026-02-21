@@ -279,3 +279,15 @@ Add Two Numbers ---> 已解决
 
 # 2_21
 
+[144. Binary Tree Preorder Traversal](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
+
+
+
+[94. Binary Tree Inorder Traversal](https://leetcode.cn/problems/binary-tree-inorder-traversal/)
+
+
+
+[145. Binary Tree Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/)
+
+
+
