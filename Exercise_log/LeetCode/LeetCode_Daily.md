@@ -308,4 +308,6 @@ Add Two Numbers ---> 已解决
 [111. Minimum Depth of Binary Tree](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
 
 
+**Lambda表达式**
 
+- 方便随时创建函数，并准备给qi't
