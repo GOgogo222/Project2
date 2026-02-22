@@ -299,3 +299,9 @@ Add Two Numbers ---> 已解决
 
 
 
+# 2_22
+
+[104. Maximum Depth of Binary Tree](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
+
+
+
