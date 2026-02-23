@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/LeetCode_Daily.md",
+                "file": "数据结构与算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode_Daily"
+              "title": "数据结构与算法"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
-    "未命名.md",
     "LeetCode/LeetCode_Daily.md",
+    "未命名.md",
     "LeetCode/0111. Minimum Depth of Binary Tree.md",
     "LeetCode/0000. Templete.md",
     "LeetCode/(0671. Second Minimum Node In a Binary Tree.md",
