@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/0129. Sum Root to Leaf Numbers.md",
+                "file": "LeetCode/LeetCode_Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0129. Sum Root to Leaf Numbers"
+              "title": "LeetCode_Daily"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3d8a795aae7a109e",
   "lastOpenFiles": [
-    "LeetCode/0000. Templete.md",
     "LeetCode/0129. Sum Root to Leaf Numbers.md",
+    "LeetCode/0000. Templete.md",
     "LeetCode/LeetCode_Daily.md",
     "数据结构与算法.md",
     "未命名.md",

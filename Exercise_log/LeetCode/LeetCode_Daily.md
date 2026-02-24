@@ -331,3 +331,7 @@ Add Two Numbers ---> 已解决
 
 
 
+[1448. Count Good Nodes in Binary Tree](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/)
+
+
+
