@@ -317,3 +317,13 @@ Add Two Numbers ---> 已解决
 
 # 2_23
 
+[112. Path Sum](https://leetcode.cn/problems/path-sum/)
+
+
+
+# 2_24
+
+[129. Sum Root to Leaf Numbers](https://leetcode.cn/problems/sum-root-to-leaf-numbers/)
+
+
+
