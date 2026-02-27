@@ -339,3 +339,7 @@ Add Two Numbers ---> 已解决
 
 # 2_26
 
+[988. 从叶结点开始的最小字符串](https://leetcode.cn/problems/smallest-string-starting-from-leaf/)
+
+
+
