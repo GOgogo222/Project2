@@ -351,3 +351,9 @@ Add Two Numbers ---> 已解决
 
 
 
+# 2_28
+
+[623. Add One Row to Tree](https://leetcode.cn/problems/add-one-row-to-tree/)
+
+
+
