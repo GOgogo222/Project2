@@ -367,3 +367,7 @@ Add Two Numbers ---> 已解决
 
 # 3_1
 
+[965. Univalued Binary Tree](https://leetcode.cn/problems/univalued-binary-tree/)
+
+
+
