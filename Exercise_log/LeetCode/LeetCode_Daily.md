@@ -417,3 +417,7 @@ Add Two Numbers ---> 已解决
 
 
 
+[2331. Evaluate Boolean Binary Tree](https://leetcode.cn/problems/evaluate-boolean-binary-tree/)
+
+
+
