@@ -459,3 +459,7 @@ Add Two Numbers ---> 已解决
 
 
 
+[530. Minimum Absolute Difference in BST](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/)
+
+
+
