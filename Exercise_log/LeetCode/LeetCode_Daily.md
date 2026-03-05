@@ -476,3 +476,7 @@ Add Two Numbers ---> 已解决
 
 
 
+[230. Kth Smallest Element in a BST](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/)
+
+
+
