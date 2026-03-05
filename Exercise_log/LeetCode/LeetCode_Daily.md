@@ -480,3 +480,7 @@ Add Two Numbers ---> 已解决
 
 
 
+[98. Validate Binary Search Tree](https://leetcode.cn/problems/validate-binary-search-tree/)
+
+
+
