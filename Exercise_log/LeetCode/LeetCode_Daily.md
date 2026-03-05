@@ -463,3 +463,8 @@ Add Two Numbers ---> 已解决
 
 
 
+
+[700. Search in a Binary Search Tree](https://leetcode.cn/problems/search-in-a-binary-search-tree/)
+
+# 3_5
+
