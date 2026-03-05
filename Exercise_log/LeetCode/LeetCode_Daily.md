@@ -484,3 +484,7 @@ Add Two Numbers ---> 已解决
 
 
 
+[897. Increasing Order Search Tree](https://leetcode.cn/problems/increasing-order-search-tree/)
+
+
+
