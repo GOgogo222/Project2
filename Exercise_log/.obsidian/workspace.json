@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#define和typedef",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "天梯赛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "test 的出链列表"
+              "title": "天梯赛 的出链列表"
             }
           },
           {
@@ -161,7 +161,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d8a795aae7a109e",
+  "active": "ab0e1f8128bffe4d",
   "lastOpenFiles": [
     "LeetCode/(0034. Find First and Last Position of Element in Sorted Array.md",
     "天梯赛.md",
