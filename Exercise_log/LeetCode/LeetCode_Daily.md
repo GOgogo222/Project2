@@ -512,3 +512,7 @@ Add Two Numbers ---> 已解决
 
 
 
+[1512. Number of Good Pairs](https://leetcode.cn/problems/number-of-good-pairs/)
+
+
+
