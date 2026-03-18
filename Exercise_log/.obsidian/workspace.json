@@ -129,7 +129,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d8a795aae7a109e",
+  "active": "389a668c336f750e",
   "lastOpenFiles": [
     "数据结构与算法.md",
     "天梯赛.md",
