@@ -518,6 +518,19 @@ Add Two Numbers ---> 已解决
 
 ~~~
 unordered_map<int,int> idx;
-auto it = idx.find(target - nums[j]);
-if (it != idx.end()) return {it->second,j};
+auto it = idx.find(target - nums[j]); // .find
+if (it != idx.end()) return {it->second,j}; // ->second
 ~~~
+
+
+
+~~~
+unordered_set<int> s;
+if (s.count(-x)) { // .count
+	ans = max(ans,abs(x)); // abs()
+	s.insert(x); // .insert
+}
+~~~
+
+
+
