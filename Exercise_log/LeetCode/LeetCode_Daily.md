@@ -516,3 +516,8 @@ Add Two Numbers ---> 已解决
 
 
 
+~~~
+unordered_map<int,int> idx;
+auto it = idx.find(target - nums[j]);
+if (it != idx.end()) return {it->second,j};
+~~~
