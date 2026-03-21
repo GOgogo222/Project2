@@ -586,3 +586,7 @@ if (s.count(-x)) { // .count
 
 
 
+[3623. 统计梯形的数目 I](https://leetcode.cn/problems/count-number-of-trapezoids-i/) => 跳过
+
+
+
