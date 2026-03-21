@@ -590,3 +590,7 @@ if (s.count(-x)) { // .count
 
 
 
+[1512. 好数对的数目](https://leetcode.cn/problems/number-of-good-pairs/) => 非常值得研究
+
+
+
