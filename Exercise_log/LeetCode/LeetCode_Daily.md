@@ -540,3 +540,11 @@ if (s.count(-x)) { // .count
 
 # 3_21
 
+[121. Best Time to Buy and Sell Stock](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)
+
+
+
+[2016. Maximum Difference Between Increasing Elements](https://leetcode.cn/problems/maximum-difference-between-increasing-elements/)
+
+
+
