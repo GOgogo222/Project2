@@ -562,3 +562,11 @@ if (s.count(-x)) { // .count
 
 
 
+[1679. K 和数对的最大数目](https://leetcode.cn/problems/max-number-of-k-sum-pairs/)
+
+
+
+[面试题 16.24. 数对和](https://leetcode.cn/problems/pairs-with-sum-lcci/)
+
+
+
