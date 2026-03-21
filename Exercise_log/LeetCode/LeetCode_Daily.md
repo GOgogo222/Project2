@@ -556,3 +556,9 @@ if (s.count(-x)) { // .count
 
 
 
+[1128. 等价多米诺骨牌对的数量](https://leetcode.cn/problems/number-of-equivalent-domino-pairs/)
+[49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/)
+[1512. 好数对的数目](https://leetcode.cn/problems/number-of-good-pairs/)
+
+
+
