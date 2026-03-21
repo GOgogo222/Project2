@@ -578,3 +578,7 @@ if (s.count(-x)) { // .count
 
 
 
+[2001. Number of Pairs of Interchangeable Rectangles](https://leetcode.cn/problems/number-of-pairs-of-interchangeable-rectangles/)
+
+
+
