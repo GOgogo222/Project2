@@ -574,3 +574,7 @@ if (s.count(-x)) { // .count
 
 
 
+[2260. Minimum Consecutive Cards to Pick Up](https://leetcode.cn/problems/minimum-consecutive-cards-to-pick-up/)
+
+
+
