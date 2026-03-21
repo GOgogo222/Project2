@@ -594,3 +594,7 @@ if (s.count(-x)) { // .count
 
 
 
+[2364. 统计坏数对的数目](https://leetcode.cn/problems/count-number-of-bad-pairs/)
+
+
+
