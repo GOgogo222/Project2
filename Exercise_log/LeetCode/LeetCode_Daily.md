@@ -552,3 +552,7 @@ if (s.count(-x)) { // .count
 
 
 
+[2342. 数位和相等数对的最大和](https://leetcode.cn/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)
+
+
+
